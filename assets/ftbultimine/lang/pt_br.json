@@ -1,0 +1,19 @@
+
+{
+	"key.ftbultimine": "FTB Ultimine",
+	"key.categories.ftbultimine": "FTB Ultimine",
+	"ftbultimine.info.base": "O FTB Ultimine está %s",
+	"ftbultimine.info.active": "ativo",
+	"ftbultimine.info.not_active": "inativo",
+	"ftbultimine.info.blocks": "Minerando %d blocos",
+	"ftbultimine.info.partial_render": "%d renderizados",
+	"ftbultimine.change_shape": "Segure Shift + (Roda do Mouse ou Seta para cima/baixo) para mudar a forma",
+	"ftbultimine.shape.shapeless": "Sem Forma",
+	"ftbultimine.shape.small_tunnel": "Túnel Pequeno",
+	"ftbultimine.shape.small_square": "Quadrado Pequeno",
+	"ftbultimine.shape.mining_tunnel": "Túnel de Mineração",
+	"ftbultimine.shape.escape_tunnel": "Túnel de Fuga",
+	"ftbultimine.config": "Configuração do FTB Ultimine",
+	"item.ftbultimine.ultiminer": "Ultiminer",
+	"item.ftbultimine.ultiminer.tooltip": "Habilita o uso de %s quando ativo"
+}

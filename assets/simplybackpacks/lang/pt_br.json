@@ -1,0 +1,39 @@
+
+{
+  "simplybackpacks.shift":"Pressione <§6§oShift§r> para informações.",
+  "key.simplybackpacks.category":"Simply Backpacks",
+  "key.simplybackpacks.backpackpickup.desc":"Alternar Coleta Automática",
+  "key.simplybackpacks.backpackopen.desc":"Abrir Mochila",
+
+  "simplybackpacks.autopickup":"Coleta Automática",
+  "simplybackpacks.autopickupenabled":"Coleta Automática: §aAtivada§r",
+  "simplybackpacks.autopickupdisabled":"Coleta Automática: §cDesativada§r",
+
+  "simplybackpacks.whitelist":"Lista Branca",
+  "simplybackpacks.nbtdata":"Tags NBT",
+
+  "simplybackpacks.invaliduuid": "UUID Desconhecido",
+  "simplybackpacks.delete.confirmation": "Você tem certeza que quer deletar esta mochila?\nEsta ação não pode ser desfeita.\nConfirme com /sb delete %s",
+  "simplybackpacks.delete.finished": "Mochila %s deletada",
+  "simplybackpacks.notsetup": "Abra na mão para configurar.",
+
+  "item.simplybackpacks.commonbackpack": "Mochila Comum",
+  "item.simplybackpacks.commonbackpack.info":"A mochila mais simples.",
+  "item.simplybackpacks.commonbackpack.info2":"§fComporta 18 Pilhas§r",
+
+  "item.simplybackpacks.uncommonbackpack":"Mochila Incomum",
+  "item.simplybackpacks.uncommonbackpack.info":"Uma mochila um pouco melhor.",
+  "item.simplybackpacks.uncommonbackpack.info2":"§eComporta 33 Pilhas§r",
+
+  "item.simplybackpacks.rarebackpack":"Mochila Rara",
+  "item.simplybackpacks.rarebackpack.info":"Uma mochila muito boa.",
+  "item.simplybackpacks.rarebackpack.info2":"§bComporta 66 Pilhas§r",
+
+  "item.simplybackpacks.epicbackpack":"Mochila Épica",
+  "item.simplybackpacks.epicbackpack.info":"Uma mochila muito épica.",
+  "item.simplybackpacks.epicbackpack.info2":"§dComporta 99 Pilhas§r",
+
+  "item.simplybackpacks.ultimatebackpack":"Mochila Suprema",
+  "item.simplybackpacks.ultimatebackpack.info":"A mochila suprema.",
+  "item.simplybackpacks.ultimatebackpack.info2":"§dComporta 158 Pilhas§r"
+}

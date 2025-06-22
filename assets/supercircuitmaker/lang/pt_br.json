@@ -1,0 +1,52 @@
+
+{
+  "itemGroup.supercircuitmaker": "Criador de Super Circuitos",
+
+  "block.supercircuitmaker.circuit": "Circuito",
+  "block.supercircuitmaker.inspector": "Inspetor",
+  "item.supercircuitmaker.screwdriver": "Chave de Fenda",
+  "item.supercircuitmaker.palette": "Paleta e Pincel",
+  "item.supercircuitmaker.tiny_redstone": "Pequena Pilha de Pó de Redstone",
+  "item.supercircuitmaker.tiny_rgb_redstone": "Pequena Pilha de Pó de Redstone RGB",
+  "item.supercircuitmaker.randomizer": "Excitador de Glowstone",
+  "item.supercircuitmaker.delay": "Ressonador de Quartzo",
+  "item.supercircuitmaker.pulsar": "Pulsar do End",
+  "item.supercircuitmaker.note": "Bipe",
+  "item.supercircuitmaker.lamp": "Lâmpada Miniatura",
+  "item.supercircuitmaker.button": "Botão Miniatura",
+  "item.supercircuitmaker.adder": "Somador",
+  "item.supercircuitmaker.subtractor": "Subtrator",
+  "item.supercircuitmaker.multiplier": "Multiplicador",
+  "item.supercircuitmaker.divider": "Divisor",
+  "item.supercircuitmaker.constant": "Constante",
+  "item.supercircuitmaker.platform": "Plataforma de Suporte",
+  "item.supercircuitmaker.redstone_stick": "Graveto Coberto de Redstone",
+  "item.supercircuitmaker.rgb_redstone_stick": "Graveto Coberto de Redstone RGB",
+
+  "container.supercircuitmaker.delay": "Ressonador de Quartzo: ",
+  "container.supercircuitmaker.pulsar": "Pulsar do End: ",
+  "container.supercircuitmaker.timing.dec_10s": "-10s",
+  "container.supercircuitmaker.timing.dec_1s": "-1s",
+  "container.supercircuitmaker.timing.inc_1s": "+1s",
+  "container.supercircuitmaker.timing.inc_10s": "+10s",
+  "container.supercircuitmaker.timing.dec_10t": "-10t",
+  "container.supercircuitmaker.timing.dec_1t": "-1t",
+  "container.supercircuitmaker.timing.inc_1t": "+1t",
+  "container.supercircuitmaker.timing.inc_10t": "+10t",
+
+  "container.supercircuitmaker.constant": "Constante: ",
+  "container.supercircuitmaker.constant.dec_20": "-20",
+  "container.supercircuitmaker.constant.dec_1": "-1",
+  "container.supercircuitmaker.constant.inc_1": "+1",
+  "container.supercircuitmaker.constant.inc_20": "+20",
+
+  "subtitles.supercircuitmaker.place": "Bipe",
+
+  "key.supercircuitmaker": "Criador de Super Circuitos",
+  "key.supercircuitmaker.open_palette": "Abrir Paleta",
+  "key.supercircuitmaker.component_placement_modifier": "Modificador de Posicionamento de Componente",
+
+  "msg.supercircuitmaker.inspector.learned": "Aprendido!",
+  "msg.supercircuitmaker.inspector.mode_state": "Modo selecionado: Corresponder estado do bloco",
+  "msg.supercircuitmaker.inspector.mode_block": "Modo selecionado: Corresponder tipo de bloco"
+}

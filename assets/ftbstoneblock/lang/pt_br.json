@@ -1,0 +1,1394 @@
+{
+  "enchantment.level.11": "XI",
+  "enchantment.level.12": "XII",
+  "enchantment.level.13": "XIII",
+  "enchantment.level.14": "XIV",
+  "enchantment.level.15": "XV",
+  "enchantment.level.25": "XXV",
+  "sdrp.sbd.in": "Na Dimensão StoneBlock",
+  "sdrp.sbd": "Dimensão StoneBlock",
+  "ftbquests.task.ftbquests.checkmark": "Clique em Mim!",
+
+  "sb3.tips.1": "A Abelha de Loot é sua amiga. Não a mate, mas colete os itens antes que desapareçam!",
+  "sb3.tips.2": "O Ultiminer requer uma ferramenta em sua mão e não pode ser usado em Pedra.",
+  "sb3.tips.3": "Caixas de Papelão podem ser usadas para pegar spawners!",
+  "sb3.tips.4": "A maioria das plantações requer um nível de luz de 8 ou superior para crescer; algumas exigem ainda mais.",
+  "sb3.tips.5": "Segure a tecla 'W' ao passar o mouse sobre um item do Create para abrir o Ponder, ele mostrará muitas informações sobre o item.",
+  "sb3.tips.6": "A maioria das suas perguntas pode ser respondida em algum lugar no livro de missões!",
+  "sb3.tips.7": "Pressione Y para encontrar itens em baús próximos.",
+  "sb3.tips.8": "Cubos da Sorte... são do mal. Abra-os BEM longe da sua base, se tiver coragem...",
+  "sb3.tips.9": "Mobs passivos requerem grama, altos níveis de luz, nenhum outro mob passivo por perto e o jogador deve estar a 24 blocos de distância.",
+  "sb3.tips.10": "Usar um Gancho em qualquer tipo de terra, areia e folhas lhe dará itens.",
+  "sb3.tips.11": "Use Farinha de Osso em blocos de grama e quebre a grama para obter sementes de cânhamo.",
+
+  "entity.chickens.bronze_chicken": "Galinha de Bronze",
+  "entity.chickens.lead_chicken": "Galinha de Chumbo",
+  "entity.chickens.lumium_chicken": "Galinha de Lumium",
+  "entity.chickens.brass_chicken": "Galinha de Latão",
+  "entity.chickens.zinc_chicken": "Galinha de Zinco",
+  "entity.chickens.pigiron_chicken": "Galinha de Ferro-Gusa",
+  "entity.chickens.constantan_chicken": "Galinha de Constantan",
+  "entity.chickens.nickel_chicken": "Galinha de Níquel",
+  "entity.chickens.terrasteel_chicken": "Galinha de Terrasteel",
+  "entity.chickens.uranium_chicken": "Galinha de Urânio",
+  "entity.chickens.netherite_chicken": "Galinha de Netherita",
+  "entity.chickens.copper_chicken": "Galinha de Cobre",
+  "entity.chickens.electrum_chicken": "Galinha de Electrum",
+  "entity.chickens.tin_chicken": "Galinha de Estanho",
+  "entity.chickens.aluminum_chicken": "Galinha de Alumínio",
+  "entity.chickens.osmium_chicken": "Galinha de Ósmio",
+  "entity.chickens.manyullyn_chicken": "Galinha de Manyullyn",
+  "entity.chickens.signalum_chicken": "Galinha de Signalum",
+  "entity.chickens.cobalt_chicken": "Galinha de Cobalto",
+  "entity.chickens.silver_chicken": "Galinha de Prata",
+  "entity.chickens.steel_chicken": "Galinha de Aço",
+  "entity.chickens.elementium_chicken": "Galinha de Elementium",
+  "entity.chickens.manasteel_chicken": "Galinha de Manasteel",
+  "entity.chickens.enderium_chicken": "Galinha de Enderium",
+
+  "sb3.welcome.title": "Boas-vindas",
+
+  "sb3.welcome.welcome.title": "Boas-vindas ao &5FTB StoneBlock 3&r!",
+  "sb3.welcome.welcome.subtitle": "Introdução e informações",
+  "sb3.welcome.welcome.reward": "Mais capítulos de missões!",
+  "sb3.welcome.welcome.description_1": "Este modpack se passa &binteiramente em um mundo subterrâneo&r, sem superfície.",
+  "sb3.welcome.welcome.description_2": "Conforme você se &6afasta do seu ponto de spawn&r, você encontrará dungeons, cavernas e, eventualmente, um anel do Nether e do End.",
+  "sb3.welcome.welcome.description_3": "Cada jogador tem sua própria dimensão, nascendo em &60,0&r, e tem seus próprios anéis.",
+  "sb3.welcome.welcome.description_4": "Você pode se teleportar para outro jogador usando o comando &6/tpa&r.",
+
+  "sb3.welcome.servers.title": "Começando",
+  "sb3.welcome.servers.subtitle": "Como realmente começar",
+  "sb3.welcome.servers.desc1": "O ponto de spawn do mundo/servidor é em uma área de lobby. Todos nascem aqui, mas você não deve &oficar&r aqui.",
+  "sb3.welcome.servers.desc2": "Para &6criar sua dimensão&r, passe pelo portal no centro. Lá você pode escolher a caverna inicial da sua dimensão. Isso também cria uma equipe no &eFTB Teams&r.",
+  "sb3.welcome.servers.desc3": "Entrar na equipe de outro jogador te enviará para a dimensão dele!",
+  "sb3.welcome.servers.desc4": "Uma vez em uma equipe, você pode usar o comando &6/ftbstoneblock home&r para se teleportar para a origem da sua dimensão.",
+  "sb3.welcome.servers.desc5": "Você pode usar o comando &6/ftbstoneblock lobby&r para se teleportar para o lobby.",
+
+  "sb3.welcome.events.title": "Eventos",
+  "sb3.welcome.events.subtitle": "Às vezes, as coisas simplesmente acontecem",
+  "sb3.welcome.events.desc1": "Em sua jornada pelo StoneBlock 3, você ocasionalmente encontrará &6eventos especiais&r aleatórios acontecendo com você.",
+  "sb3.welcome.events.desc2": "Não queremos estragar a surpresa, mas eles podem variar de te dar &eitens úteis&r a simplesmente serem piadas &edivertidas&r ou &elevemente irritantes&r (dependendo de para quem você pergunta).",
+  "sb3.welcome.events.desc3": "Se você quiser desativar eventos individuais, ou ver uma lista de todos eles, você pode usar o comando &6/events toggle &e<nomedoevento>&r.",
+
+  "sb3.getting_started.title": "Primeiros Passos!",
+
+  "sb3.getting_started.stonepebbles.title": "Rocha e Pedra!",
+  "sb3.getting_started.stonepebbles.subtitle": "Quebre um pouco de Pedra com as mãos nuas",
+  "sb3.getting_started.stonepebbles.task": "Coletar Pedrinhas",
+  "sb3.getting_started.stonepebbles.reward": "Pedrinhas",
+  "sb3.getting_started.stonepebbles.description_1": "Sozinho em uma caverna com nada além de rochas, qual o melhor uso do seu tempo do que socá-las?",
+  "sb3.getting_started.stonepebbles.description_2": "Minerar Pedra com os punhos resulta em &bPedrinhas&r, que podem ser &6transformadas em Pedregulho&r.",
+  "sb3.getting_started.stonepebbles.description_3": "Pode ser comido se, por algum motivo, você quiser.",
+
+  "sb3.getting_started.craftingtable.title": "Bancada de Trabalho",
+  "sb3.getting_started.craftingtable.subtitle": "Faça uma Bancada de Trabalho",
+  "sb3.getting_started.craftingtable.description_1": "Sem madeira, se vire com Pedra!",
+  "sb3.getting_started.craftingtable.description_2": "Quatro Pedregulhos podem ser transformados em uma &bBancada de Trabalho&r.",
+
+  "sb3.getting_started.hammer.title": "Hora do Martelo!",
+  "sb3.getting_started.hammer.subtitle": "Faça um Martelo de Pedra",
+  "sb3.getting_started.hammer.task": "Martelos",
+  "sb3.getting_started.hammer.description_1": "O &bMartelo de Pedra&r esmaga blocos minerados, dropando um bloco mais granular.",
+  "sb3.getting_started.hammer.description_2": "Você pode ver seus drops no &eREI&r verificando seus usos em receitas.",
+
+  "sb3.getting_started.chest.title": "Baú",
+  "sb3.getting_started.chest.subtitle": "Faça um Baú de Pedra",
+  "sb3.getting_started.chest.task": "Baús de Pedra",
+  "sb3.getting_started.chest.description_1": "O mod &eStone Chest&r adiciona &bBaús de Pedra&r. Absolutamente fascinante.",
+  "sb3.getting_started.chest.description_2": "Todos os Baús de Pedra funcionam de forma idêntica aos Baús normais.",
+
+  "sb3.getting_started.saplings.title": "Mudas",
+  "sb3.getting_started.saplings.subtitle": "Obtenha uma Muda",
+  "sb3.getting_started.saplings.task": "Mudas",
+  "sb3.getting_started.saplings.description_1": "Você pode obter &bMudas&r ao &6minerar Terra com um Gancho&r.",
+
+  "sb3.getting_started.wood.title": "Madeira!",
+  "sb3.getting_started.wood.subtitle": "Plante e corte uma árvore",
+  "sb3.getting_started.wood.task": "Troncos",
+  "sb3.getting_started.wood.description_1": "Certifique-se de ter espaço suficiente para uma árvore crescer!",
+  "sb3.getting_started.wood.description_2": "Você pode fazer a Muda crescer mais rápido &6correndo, pulando e se esgueirando&r perto dela!",
+
+  "sb3.getting_started.ticon.title": "Ferramentas do Tinkers'",
+  "sb3.getting_started.ticon.subtitle": "Faça as mesas básicas do Tinkers'",
+  "sb3.getting_started.ticon.desc": "A &bEstação de Ferramentas&r pode criar ferramentas modulares básicas, usando peças feitas no &bConstrutor de Peças&r.",
+
+  "sb3.getting_started.melter.title": "Derretedor",
+  "sb3.getting_started.melter.subtitle": "Faça o Derretedor",
+  "sb3.getting_started.melter.desc1": "O &bDerretedor&r é um multiblock que permite &6derreter metais em fluidos&r.",
+  "sb3.getting_started.melter.desc2": "Coloque o &bAquecedor de Seared&r, forneça combustível sólido e, em seguida, coloque o &bDerretedor de Seared&r por cima.",
+
+  "sb3.getting_started.casting.title": "Moldagem",
+  "sb3.getting_started.casting.subtitle": "Molde alguma coisa",
+  "sb3.getting_started.casting.desc1": "Para converter metais derretidos de volta em itens, você precisa usar a &bTorneira de Moldagem&r e uma &bMesa/Bacia de Moldagem&r.",
+  "sb3.getting_started.casting.desc2": "Para escolher a forma que o metal tomará (Lingote, Cabeça de Picareta, etc), você precisa usar um &bMolde&r. Moldes de Areia são &cdestruídos ao usar&r, enquanto Moldes de Ouro são reutilizáveis.",
+  "sb3.getting_started.casting.desc3": "Para fazer um Molde de Areia, coloque um Molde de Areia Vazio em uma Mesa de Moldagem e clique nele com a Peça da qual você quer fazer um Molde.",
+  "sb3.getting_started.casting.desc4": "A Torneira pode ser ativada com um clique ou com um sinal de Redstone. Ela basicamente age como um cano, movendo fluido do bloco atrás dela para o bloco abaixo. Pode ser substituída por um cano de verdade, se preferir.",
+  "sb3.getting_started.casting.task1": "Mesa/Bacia de Moldagem de Seared",
+  "sb3.getting_started.casting.task2": "Moldes",
+
+  "sb3.getting_started.smeltery.title": "Fundição",
+  "sb3.getting_started.smeltery.subtitle": "Faça uma Fundição",
+  "sb3.getting_started.smeltery.desc1": "A &bFundição&r é um multiblock que &6derrete metais&r e &6combina metais derretidos para criar ligas&r.",
+  "sb3.getting_started.smeltery.desc2": "Sua forma é muito mais livre do que a do Derretedor. Veja o &6Mighty Smelting&r para um guia de como construí-la.",
+  "sb3.getting_started.smeltery.desc3": "&6Alguns metais derretidos se misturam, criando ligas&r. Isso só acontece se você tiver combustível, então uma Fundição enorme sem combustível funcionará como um tanque seguro para armazenar metais derretidos.",
+  "sb3.getting_started.smeltery.desc4": "Quanto mais blocos de Seared compõem a Fundição, mais combustível é consumido e mais itens e fluidos ela pode armazenar.",
+  "sb3.getting_started.smeltery.desc8": "Minérios (e Minérios Brutos) derretidos na Fundição rendem mais do que em uma Fornalha.",
+  "sb3.getting_started.smeltery.task1": "Tanques de Seared",
+  "sb3.getting_started.smeltery.task2": "Blocos de Seared",
+
+  "sb3.getting_started.crook.title": "Wololo",
+  "sb3.getting_started.crook.subtitle": "Faça um Gancho",
+  "sb3.getting_started.crook.description_1": "Minerar certos blocos com um &bGancho&r fará com que eles dropem itens como &6Mudas e Sementes&r.",
+  "sb3.getting_started.crook.description_2": "Você pode ver seus drops no &eREI&r verificando seus usos em receitas.",
+
+  "sb3.getting_started.seeds.title": "SEMENTES?",
+  "sb3.getting_started.seeds.subtitle": "Obtenha sementes",
+  "sb3.getting_started.seeds.task": "Sementes",
+  "sb3.getting_started.seeds.description_1": "Usar um &6Gancho&r na Terra tem uma chance de dropar &bqualquer um destes itens de Semente&r.",
+  "sb3.getting_started.seeds.description_2": "Você pode ver a chance de cada um no &eREI&r.",
+
+  "sb3.getting_started.gravel.title": "Cascalho",
+  "sb3.getting_started.gravel.subtitle": "Obtenha Cascalho",
+  "sb3.getting_started.gravel.description_1": "&6Martele Pedra&r para obter &bCascalho&r.",
+
+  "sb3.getting_started.dirt.title": "Terra",
+  "sb3.getting_started.dirt.subtitle": "Obtenha Terra",
+  "sb3.getting_started.dirt.description_1": "&6Martele Cascalho&r para obter &bTerra&r.",
+
+  "sb3.getting_started.sand.title": "Areia",
+  "sb3.getting_started.sand.subtitle": "Obtenha Areia",
+  "sb3.getting_started.sand.description_1": "&6Martele Terra&r para obter &bAreia&r.",
+
+  "sb3.getting_started.dust.title": "Pó",
+  "sb3.getting_started.dust.subtitle": "Obtenha Pó",
+  "sb3.getting_started.dust.description_1": "&6Martele Areia&r para obter &bPó&r.",
+
+  "sb3.getting_started.millstone.title": "Peneiras? Nunca ouvi falar",
+  "sb3.getting_started.millstone.subtitle": "Faça uma estrutura de Moinho",
+  "sb3.getting_started.millstone.description_1": "Você pode obter recursos básicos como Ferro usando o &bMoinho&r. Recursos mais avançados não estarão disponíveis até mais tarde.",
+  "sb3.getting_started.millstone.description_2": "Como tudo no &eCreate&r, o Moinho é alimentado com força rotacional.",
+  "sb3.getting_started.millstone.description_3": "Da mesma forma, você pode segurar &6[W]&r enquanto passa o mouse sobre qualquer item do Create para ver uma pequena animação explicando como ele funciona, incluindo como é alimentado.",
+
+  "sb3.getting_started.millgravel.title": "Recursos",
+  "sb3.getting_started.millgravel.subtitle": "Moa um pouco de Cascalho",
+  "sb3.getting_started.millgravel.task": "Produtos da moagem",
+  "sb3.getting_started.millgravel.description_1": "&6Moer Cascalho&r tem uma chance de produzir &bFerro&r, &bZinco&r e &bCarvão&r.",
+
+  "sb3.getting_started.lava.title": "Lava",
+  "sb3.getting_started.lava.subtitle": "Colete Lava",
+  "sb3.getting_started.lava.description_1": "Você pode fazer &bLava&r usando o &bArado de Fogo&r na Pedra por algum tempo.",
+
+  "sb3.getting_started.water.title": "Água",
+  "sb3.getting_started.water.subtitle": "Colete Água",
+  "sb3.getting_started.water.description_1": "Você pode obter &bÁgua&r clicando com o botão direito em um &bCaldeirão&r com Folhas ou Mudas.",
+
+  "sb3.getting_started.dripper.title": "Gotejamento Supremo",
+  "sb3.getting_started.dripper.subtitle": "Faça um Gotejador",
+  "sb3.getting_started.dripper.desc1": "O &bGotejador&r goteja fluido no bloco abaixo para transformá-lo em outros blocos.",
+  "sb3.getting_started.dripper.desc2": "&6Veja no REI quais blocos ele pode converter.",
+
+  "sb3.getting_started.cobble_gen1.subtitle": "Faça um Gerador de Pedregulho Nv1",
+  "sb3.getting_started.cobble_gen1.desc": "O &bGerador de Pedregulho Nv1&r faz 1 Pedregulho a cada 2 segundos.",
+  "sb3.getting_started.cobble_gen1.desc2": "O pedregulho é automaticamente empurrado para um inventário acima.",
+
+  "sb3.getting_started.cobble_gen2.subtitle": "Faça um Gerador de Pedregulho Nv2",
+  "sb3.getting_started.cobble_gen2.desc": "O &bGerador de Pedregulho Nv2&r faz 1 Pedregulho a cada 1 segundo.",
+
+  "sb3.getting_started.cobble_gen3.subtitle": "Faça um Gerador de Pedregulho Nv3",
+  "sb3.getting_started.cobble_gen3.desc": "O &bGerador de Pedregulho Nv3&r faz 1 Pedregulho a cada 0.5 segundos.",
+
+  "sb3.getting_started.cobble_gen4.subtitle": "Faça um Gerador de Pedregulho Nv4",
+  "sb3.getting_started.cobble_gen4.desc": "O &bGerador de Pedregulho Nv4&r faz 1 Pedregulho a cada 0.25 segundos.",
+
+  "sb3.getting_started.cobble_gen5.subtitle": "Faça um Gerador de Pedregulho Nv5",
+  "sb3.getting_started.cobble_gen5.desc": "O &bGerador de Pedregulho Nv5&r faz 1 Pedregulho a cada 0.05 segundos.",
+
+  "sb3.getting_started.soulsand.subtitle": "Obtenha Areia das Almas",
+  "sb3.getting_started.soulsand.desc1": "Você pode obter &bAreia das Almas&r combinando Areia, uma Alma de Mob e um pouco de Água em um &6Misturador&r.",
+  "sb3.getting_started.soulsand.decs2": "Depois da primeira, você pode fazer mais usando &6Assombração em Massa&r com um Ventilador.",
+
+  "sb3.getting_started.mobsoul.subtitle": "Obtenha uma Alma de Mob",
+  "sb3.getting_started.mobsoul.desc": "&bAlmas de Mob&r têm 20%% de chance de dropar sempre que um mob morre.",
+
+  "sb3.getting_started.encased_fan.title": "Lava a mão",
+  "sb3.getting_started.encased_fan.subtitle": "Faça um Ventilador Encapsulado",
+  "sb3.getting_started.encased_fan.desc1": "O &bVentilador Encapsulado&r usa força rotacional para criar uma corrente de ar.",
+  "sb3.getting_started.encased_fan.desc2": "Se a corrente de ar passar por certos blocos (como Água e Lava), ela pode ser usada como uma mecânica de criação.",
+  "sb3.getting_started.encased_fan.desc3": "Em particular, a Água vai &6lavar itens&r, criando outros. A Lava vai &6assar itens&r, cozinhando-os como em uma Fornalha Potente.",
+
+  "sb3.getting_started.washing.title": "Lavagem",
+  "sb3.getting_started.washing.subtitle": "Lave alguns recursos",
+  "sb3.getting_started.washing.task1": "Areia",
+  "sb3.getting_started.washing.task2": "Cascalho",
+  "sb3.getting_started.washing.task3": "Outros",
+  "sb3.getting_started.washing.description_1": "Você pode obter muitos recursos &blavando Cascalho, Areia, Pó e Areia das Almas&r.",
+
+  "sb3.getting_started.nosolic.subtitle": "Faça uma Placa de 'Não Incomode!'",
+  "sb3.getting_started.nosolic.desc": "A &bPlaca de 'Não Incomode!'&r impede que Vendedores Ambulantes apareçam por perto.",
+
+  "sb3.getting_started.crushing_wheel.subtitle": "Faça uma Roda de Esmagamento",
+  "sb3.getting_started.crushing_wheel.desc1": "Quando duas &bRodas de Esmagamento&r giram uma contra a outra, elas &6esmagam o que passa por elas&r.",
+  "sb3.getting_started.crushing_wheel.desc2": "Embora isso possa ser usado para processar minérios e coisas do tipo, também é como vários itens são coletados.",
+
+  "sb3.getting_started.crushing.title": "Esmagamento",
+  "sb3.getting_started.crushing.subtitle": "Esmague um pouco de Cascalho",
+  "sb3.getting_started.crushing.desc": "&bEsmagar Cascalho&r resultará em todos esses drops.",
+  "sb3.getting_started.crushing.task": "Produtos do esmagamento",
+
+  "sb3.getting_started.andesite.subtitle": "Obtenha Andesito",
+  "sb3.getting_started.andesite.desc1": "Se você minerar para cima ou para baixo o suficiente, alcançará uma camada de &bAndesito&r. Além dela, há &6Ardósia Profunda&r, e só então há a Bedrock.",
+  "sb3.getting_started.andesite.desc2": "Clique aqui para ver mais informações",
+
+  "sb3.exploration.title": "Exploração",
+
+  "sb3.exploration.layers.title": "Camadas de Pedra",
+  "sb3.exploration.layers.subtitle": "Explore as camadas de pedra",
+  "sb3.exploration.layers.task_1": "Olhe para Pedra",
+  "sb3.exploration.layers.task_2": "Olhe para Andesito",
+  "sb3.exploration.layers.task_3": "Olhe para Ardósia Profunda",
+  "sb3.exploration.layers.desc1": "A porção do mundo superior do mapa é dividida em 5 fatias, separadas por níveis Y.",
+  "sb3.exploration.layers.desc2": "A fatia central é feita de &bPedra&r, &6com 55 blocos de altura&r acima e abaixo do nível Y0.",
+  "sb3.exploration.layers.desc3": "Acima e abaixo disso, há fatias de &bAndesito&r com &620 blocos de altura&r.",
+  "sb3.exploration.layers.desc4": "Acima e abaixo &odisso&r, há uma camada de &bArdósia Profunda&r com &653 blocos de altura&r.",
+
+  "sb3.exploration.stone_dungeon.title": "Dungeon de Pedra",
+  "sb3.exploration.stone_dungeon.subtitle": "Visite uma Dungeon de Pedra",
+  "sb3.exploration.stone_dungeon.desc": "A &bDungeon de Pedra&r é uma dungeon enorme que pode ser encontrada na metade externa do círculo de Pedra.",
+
+  "sb3.exploration.spawner_dungeon.title": "Dungeon de Spawner",
+  "sb3.exploration.spawner_dungeon.subtitle": "Visite uma Dungeon de Spawner",
+  "sb3.exploration.spawner_dungeon.desc": "A &bDungeon de Spawner&r é uma dungeon muito menor, composta por uma única sala.",
+
+  "sb3.exploration.nether.title": "O Nether",
+  "sb3.exploration.nether.subtitle": "Alcance o Anel do Nether",
+  "sb3.exploration.nether.desc": "Começa por volta de &61.000 blocos do spawn&r.",
+
+  "sb3.exploration.nether_dungeon.title": "Dungeons do Nether",
+  "sb3.exploration.nether_dungeon.subtitle": "Visite uma Dungeon do Nether",
+  "sb3.exploration.nether_dungeon.desc": "A &bDungeon do Nether&r é uma dungeon enorme que pode ser encontrada no anel do Nether.",
+
+  "sb3.exploration.end.title": "O End",
+  "sb3.exploration.end.subtitle": "Alcance o Anel do End",
+  "sb3.exploration.end.desc1": "Começa por volta de &61.600 blocos do spawn&r.",
+  "sb3.exploration.end.desc2": "Continuando ainda mais longe, o anel &6termina por volta de 2.200 blocos do spawn&r. Depois disso, há Pedra infinita, com dungeons únicas espalhadas.",
+
+  "sb3.exploration.end_city.title": "Cidades do End",
+  "sb3.exploration.end_city.subtitle": "Visite uma Cidade do End",
+  "sb3.exploration.end_city.desc": "&bCidades do End&r podem ser encontradas no Anel do End.",
+
+  "sb3.exploration.boss_dungeon.title": "Dungeon do Chefe",
+  "sb3.exploration.boss_dungeon.subtitle": "Visite uma Dungeon do Chefe",
+  "sb3.exploration.boss_dungeon.desc1": "&bDungeons do Chefe&r podem ser encontradas &6além do Anel do End&r.",
+  "sb3.exploration.boss_dungeon.desc2": "Dentro pode ser encontrado um &6Altar de Invocação&r, que pode ser usado para invocar o chefe do modpack.",
+
+  "sb3.exploration.mother_silverfish.subtitle": "Invoque e mate a Lepisma-Mãe",
+  "sb3.exploration.mother_silverfish.desc1": "A &bLepisma-Mãe&r é invocada nas Dungeons do Chefe encontradas fora do Anel do End. Invoque-a no Altar de Invocação e derrote-a!",
+  "sb3.exploration.mother_silverfish.desc2": "Cuidado, pois a Lepisma-Mãe tem vários ataques especiais e pode invocar &6vários tipos de lacaios Lepisma&r.",
+  "sb3.exploration.mother_silverfish.desc3": "As invocações possíveis são a Lepisma &6Sanguessuga&r, &6Venenosa&r e &6Ladra&r. A última é especialmente perigosa, então tome cuidado!",
+
+  "sb3.exploration.silverfish_farm.title": "Farme a Lepisma-Mãe",
+  "sb3.exploration.silverfish_farm.desc1": "Você pode facilmente &6farmar Corações de Lepisma infinitos&r da Lepisma-Mãe, usando vários mods em conjunto.",
+  "sb3.exploration.silverfish_farm.desc2": "O &bAmuleto de Drygmy&r usa Fonte (Source) para &6coletar drops de mobs sem matá-los&r.",
+  "sb3.exploration.silverfish_farm.desc3": "Fonte pode ser facilmente feita usando um &6Sourcelink Vulcânico&r, alimentado por Carvão de &6Galinhas&r (ou qualquer outra fonte).",
+  "sb3.exploration.silverfish_farm.desc4": "Para manter a Lepisma-Mãe parada, você pode colocar uma &bCâmara de Estase&r &6diretamente sob o Altar de Invocação&r.",
+  "sb3.exploration.silverfish_farm.desc5": "O Carvão de antes também poderia alimentar um gerador, fornecendo o FE. Certifique-se de fazer uma Cerca para &6manter o Drygmy fora da área de trabalho da Câmara de Estase&r!",
+
+  "sb3.exploration.train.title": "Uma viagem pelo mundo!",
+  "sb3.exploration.train.subtitle": "Piuí",
+  "sb3.exploration.train.desc1": "Viaje de trem por todos os 5 biomas de uma só vez!",
+  "sb3.exploration.train.desc2": "Os biomas:\n• Planícies\n• Cavernas Exuberantes\n• Devastação do Nether\n• O End\n• Floresta",
+
+  "sb3.resources.title": "Recursos",
+
+  "sb3.resources.mob_farming.title": "Mob Grinding Utils",
+
+  "sb3.resources.mob_farming.solidifier.title": "Gostaria de um Bebê de Gelatina?",
+  "sb3.resources.mob_farming.solidifier.subtitle": "Obtenha um Bebê de Gelatina",
+  "sb3.resources.mob_farming.solidifier.description_1": "Solidifique experiência em bebezinhos esmagáveis e comestíveis!",
+  "sb3.resources.mob_farming.solidifier.description_2": "&oNota: Não reproduzível na vida real!",
+
+  "sb3.resources.mob_farming.spawner.title": "Spawn de Mobs",
+  "sb3.resources.mob_farming.spawner.subtitle": "Faça um Gerador de Entidades",
+  "sb3.resources.mob_farming.spawner.description_1": "O &bGerador de Entidades&r gera entidades. Simples assim.",
+  "sb3.resources.mob_farming.spawner.description_2": "Insira um Ovo de Spawn no slot superior. Para obter o Ovo de Spawn, alimente uma Galinha com um pouco de &bRação de Galinha GM&r do mob que você quer gerar.",
+  "sb3.resources.mob_farming.spawner.description_3": "O Gerador é abastecido com &6Bebês de Gelatina de XP&r, que são inseridos no slot inferior.",
+  "sb3.resources.mob_farming.spawner.description_4": "Os botões à direita permitem mover onde os mobs são gerados. Os slots na parte inferior podem conter &6Melhorias&r.",
+
+  "sb3.resources.mob_farming.masher.title": "O Massacre dos Monstros",
+  "sb3.resources.mob_farming.masher.subtitle": "Obtenha um Amassador de Monstros",
+  "sb3.resources.mob_farming.masher.desc1": "Hora de triturar todos esses mobs usando o &bAmassador de Mobs&r.",
+  "sb3.resources.mob_farming.masher.desc2": "Melhorias permitem matar mobs mais resistentes mais rápido e dropar mais itens!",
+
+  "sb3.resources.mob_farming.hopper.subtitle": "Faça um Funil de Absorção",
+  "sb3.resources.mob_farming.hopper.description_1": "Sua farm de mobs eventualmente chegará a um ponto em que está produzindo mais drops do que pode coletar.",
+  "sb3.resources.mob_farming.hopper.description_2": "O &bFunil de Absorção&r pode &6pegar mobs e xp&r em uma área.",
+
+  "sb3.resources.mob_farming.fan.title": "Levado pelo Vento",
+  "sb3.resources.mob_farming.fan.subtitle": "Faça um Ventilador de Mobs",
+  "sb3.resources.mob_farming.fan.description_1": "&bVentiladores de Mobs&r irão &6empurrar mobs&r para longe deles quando receberem um sinal de redstone.",
+  "sb3.resources.mob_farming.fan.description_2": "A área pode ser vista na GUI e aumentada com Melhorias.",
+
+  "sb3.resources.mob_farming.chicken_feed_1.title": "Completamente Ético",
+  "sb3.resources.mob_farming.chicken_feed_1.subtitle": "Faça Ração Nutritiva para Galinha",
+  "sb3.resources.mob_farming.chicken_feed_1.description": "Clique com o botão direito na ração em uma galinha, mas prepare sua alma.",
+
+  "sb3.resources.mob_farming.golden_egg.title": "Gansa Dourada Vendida Separadamente",
+  "sb3.resources.mob_farming.golden_egg.subtitle": "Obtenha um Ovo de Ouro",
+  "sb3.resources.mob_farming.golden_egg.description": "Use o &bOvo de Ouro&r na terra ou grama para obter um pedaço de &6Terra Encantadora&r!",
+
+  "sb3.resources.mob_farming.chicken_feed_2.title": "Aprovado pelo PETA",
+  "sb3.resources.mob_farming.chicken_feed_2.subtitle": "Faça Ração de Galinha GM Amaldiçoada",
+  "sb3.resources.mob_farming.chicken_feed_2.description": "Dê para uma galinha para um momento divertido.",
+
+  "sb3.resources.mob_farming.rotton_egg.title": "Sem Gosto",
+  "sb3.resources.mob_farming.rotton_egg.subtitle": "Obtenha um Ovo Podre",
+  "sb3.resources.mob_farming.rotton_egg.description": "Use o &bOvo Podre&r na terra ou grama para obter um pedaço de &6Terra Medonha&r.",
+
+  "sb3.resources.mob_farming.dirt_1.title": "Pacifista",
+  "sb3.resources.mob_farming.dirt_1.subtitle": "Observe a Terra Encantadora",
+  "sb3.resources.mob_farming.dirt_1.description": "A &bTerra Encantadora&r gera a maioria dos mobs passivos, de galinhas a vacas, e outros mobs amigáveis de mods.",
+
+  "sb3.resources.mob_farming.dirt_2.title": "Violação de Contenção!",
+  "sb3.resources.mob_farming.dirt_2.subtitle": "Observe a Terra Medonha",
+  "sb3.resources.mob_farming.dirt_2.description": "A &bTerra Medonha&r gera tudo que faz barulho na noite.",
+
+  "sb3.resources.mob_farming.upgrades.title": "Melhorias",
+  "sb3.resources.mob_farming.upgrades.subtitle": "Faça uma Melhoria",
+  "sb3.resources.mob_farming.upgrades.desc": "Certas &bMelhorias&r podem ser inseridas no Ventilador, Gerador, Amassador de Mobs, Funil e Solidificador de XP.",
+
+  "sb3.resources.mob_farming.xp.title": "Roubo de Experiência",
+  "sb3.resources.mob_farming.xp.subtitle": "Doe 100 níveis",
+  "sb3.resources.mob_farming.xp.description_1": "Estou sem experiência, me dê 100 níveis e eu te darei alguns itens.",
+  "sb3.resources.mob_farming.xp.description_2": "Com sua farm de mobs, com certeza você pode doar um pouco!",
+
+  "sb3.resources.passive.title": "Recursos Passivos",
+
+  "sb3.passive.drill.subtitle": "Faça uma estrutura de Perfuratriz a Laser",
+  "sb3.passive.drill.desc1": "A &bBase de Laser de Minério&r e a &bBase de Laser de Fluido&r usam FE para gerar minérios e fluidos.",
+  "sb3.passive.drill.desc2": "Elas não aceitam FE sozinhas, devem ser alimentadas por &bPerfuratrizes a Laser&r.",
+  "sb3.passive.drill.task": "Bases de Laser",
+
+  "sb3.chickens.catcher.title": "Caçador de Galinhas",
+  "sb3.chickens.catcher.subtitle": "Faça um Pegador de Galinhas",
+  "sb3.chickens.catcher.desc": "O &bPegador de Galinhas&r pode ser usado em Galinhas para transformá-las em itens.",
+
+  "sb3.chickens.breeder.subtitle": "Faça um Criador",
+  "sb3.chickens.breeder.desc": "O &bCriador&r permite que você cruze Galinhas automaticamente como itens usando Sementes.",
+
+  "sb3.chickens.roost.subtitle": "Faça um Poleiro",
+  "sb3.chickens.roost.desc": "O &bPoleiro&r simulará itens de Galinha como se fossem mobs, gerando lentamente seus drops.",
+
+  "sb3.chickens.craft.title": "Galinhas Fabricáveis",
+  "sb3.chickens.craft.subtitle": "Crie uma Galinha",
+  "sb3.chickens.craft.desc": "Estas &bGalinhas&r podem ser criadas diretamente.",
+
+  "sb3.chickens.bred.title": "Galinha Cruzada",
+  "sb3.chickens.bred.subtitle": "Faça um cruzamento de Galinha",
+  "sb3.chickens.bred.desc": "Estas &bGalinhas&r precisam ser cruzadas a partir de outras Galinhas.",
+
+  "sb3.resources.budding_crystals.title": "Cristais em Brotação",
+  "sb3.resources.budding_crystals.subtitle": "Faça um Cristal em Brotação",
+  "sb3.resources.budding_crystals.desc": "&bCristais em Brotação&r funcionam como Ametista em Brotação, mas para outros recursos.",
+
+  "sb3.tech.title": "Tecnologia",
+
+  "sb3.tech.industrial_forgoing.title": "Industrial Foregoing",
+
+  "sb3.if.fe.subtitle": "Faça um Extrator de Fluidos",
+  "sb3.if.fe.desc": "Quando o &bExtrator de Fluidos&r é apontado para Troncos, ele gera &6Látex&r.",
+
+  "sb3.if.lpu.subtitle": "Faça uma Unidade de Processamento de Látex",
+  "sb3.if.lpu.desc": "A &bUnidade de Processamento de Látex&r usa FE e Água para transformar Látex em &6Pequenas Borrachas Secas&r.",
+
+  "sb3.if.mc.subtitle": "Faça um Esmagador de Mobs",
+  "sb3.if.mc.desc1": "O &bEsmagador de Mobs&r mata mobs, coletando seus drops. O XP é coletado como Essência.",
+  "sb3.if.mc.desc2": "Você pode configurá-lo para usar Pilhagem ao custo de não gerar Essência.",
+
+  "sb3.if.msf.subtitle": "Faça uma Fábrica de Abate de Mobs",
+  "sb3.if.msf.desc1": "A &bFábrica de Abate de Mobs&r mata mobs, destruindo seus drops e xp, gerando em vez disso &6Carne Líquida&r e &6Slime Rosa&r.",
+  "sb3.if.msf.desc2": "Mobs passivos geram mais Slime Rosa do que os hostis.",
+
+  "sb3.if.af.title": "Fazenda de Animais",
+  "sb3.if.af.subtitle": "Faça uma estrutura de fazenda de animais",
+  "sb3.if.af.desc1": "O &bAlimentador de Animais&r usará a ração em seu inventário para reproduzir adultos em sua área de trabalho.",
+  "sb3.if.af.desc2": "O &bSeparador de Filhotes de Animais&r teleportará filhotes à sua frente para trás de si. Pode ser configurado para mover adultos em vez disso.",
+  "sb3.if.af.desc3": "Você pode ter um cercado de reprodutores, mover os filhotes para um cercado para eles crescerem, e então usar outro Separador para mover os adultos recém-crescidos para um cercado com uma máquina de abate.",
+
+  "sb3.if.cf.title": "Fazenda de Plantações",
+  "sb3.if.cf.subtitle": "Faça uma estrutura de fazenda de plantações",
+  "sb3.if.cf.desc1": "O &bSemeador de Plantas&r planta sementes em sua área de trabalho. Você pode definir uma semente separada para 9 quadrantes.",
+  "sb3.if.cf.desc2": "O &bColetor de Plantas&r coleta plantações e árvores em sua área de trabalho. &6Éter&r permitirá que ele replante sementes/mudas automaticamente.",
+
+  "sb3.if.myc.title": "Geradores Miceliais",
+  "sb3.if.myc.subtitle": "Faça qualquer Gerador Micelial",
+  "sb3.if.myc.desc1": "O &bReator Micelial&r gera uma quantidade massiva de FE &6quando todos os outros Geradores Miceliais estão funcionando simultaneamente&r.",
+  "sb3.if.myc.desc2": "Cada um dos &bGeradores Miceliais&r produz FE usando combustíveis únicos, como TNT ou Sopro do Dragão.",
+
+  "sb3.if.wb.subtitle": "Faça um Construtor de Wither",
+  "sb3.if.wb.desc1": "O &bConstrutor de Wither&r constrói e gera o Wither acima de si, com um bloco de sobra.",
+  "sb3.if.wb.desc2": "Melhor usado em combinação com o Escudo do &eRFTools&r, pois é à prova de Wither e pode matar o Wither.",
+
+  "sb3.if.ra.title": "Adicionais de Alcance",
+  "sb3.if.ra.subtitle": "Faça um Adicional de Alcance",
+  "sb3.if.ra.desc": "A maioria das máquinas tem apenas uma área de trabalho de 1x1x1. &bAdicionais de Alcance&r aumentam isso.",
+
+  "sb3.if.oa.title": "Adicionais de Velocidade",
+  "sb3.if.oa.subtitle": "Faça um dos outros Adicionais",
+  "sb3.if.oa.desc": "Esses outros &bAdicionais&r aumentam as velocidades das máquinas de várias maneiras diferentes.",
+
+  "sb3.if.it.subtitle": "Faça um Transportador de Itens",
+  "sb3.if.it.desc": "&bTransportadores de Itens&r podem ser usados para mover itens rapidamente entre inventários a um bloco de distância um do outro.",
+
+  "sb3.if.ft.subtitle": "Faça um Transportador de Fluidos",
+  "sb3.if.ft.desc": "&bTransportadores de Fluidos&r podem ser usados para mover fluidos rapidamente entre tanques a um bloco de distância um do outro.",
+
+  "sb3.if.wt.subtitle": "Faça um Transportador Mundial",
+  "sb3.if.wt.desc": "&bTransportadores Mundiais&r podem ser usados para mover itens rapidamente entre um inventário e o mundo, na forma de entidade de item.",
+
+  "sb3.tech.rftools.title": "RF Tools",
+
+  "sb3.rft.builder.subtitle": "Faça um Construtor",
+  "sb3.rft.builder.desc": "O &bConstrutor&r coloca blocos de um inventário acima na área definida pelo &bCartão Espacial&r dentro dele.",
+
+  "sb3.rft.cards.title": "Cartões de Forma",
+  "sb3.rft.cards.subtitle": "Faça um Cartão de Forma avançado",
+  "sb3.rft.cards.desc": "Estes &bCartões de Forma&r avançados podem ser usados para colocar/coletar fluidos, bem como cavar blocos.",
+
+  "sb3.rft.shield.title": "Escudos de Campo de Força",
+  "sb3.rft.shield.subtitle": "Faça uma estrutura de Escudo",
+  "sb3.rft.shield.desc1": "&bProjetores de Escudo&r criam Escudos onde &bModelos de Escudo&r conectados estavam, quando clicados com uma Chave Inglesa. A imagem abaixo mostra antes e depois de usar a Chave Inglesa.",
+  "sb3.rft.shield.desc2": "Escudos podem receber regras sobre como interagir com entidades, como danificar Withers enquanto deixam jogadores e mobs passarem, etc.",
+  "sb3.rft.shield.desc3": "Os blocos do Escudo também são à prova de Wither! Não se esqueça de proibir que Crânios voem através dele!",
+  "sb3.rft.shield.task1": "Projetores de Escudo",
+  "sb3.rft.shield.task2": "Modelos de Escudo",
+
+  "sb3.rft.spawner.subtitle": "Faça um Gerador",
+  "sb3.rft.spawner.desc1": "O &bGerador&r gera um mob definido pela &bSeringa&r dentro dele, que é preenchida atacando o mob em questão.",
+  "sb3.rft.spawner.desc2": "Todos os mobs precisam de 3 coisas: Terra/Cascalho/Areia, plantas e um item único para o mob. Estes são fornecidos por &bEmissores de Matéria&r conectados.",
+
+  "sb3.tech.powah.title": "Powah!",
+
+  "sb3.powah.thermo.title": "Geradores Térmicos",
+  "sb3.powah.thermo.subtitle": "Faça um Gerador Térmico",
+  "sb3.powah.thermo.desc": "&bGeradores Térmicos&r geram FE ao serem colocados em fontes de calor.",
+
+  "sb3.powah.magmator.title": "Magmators",
+  "sb3.powah.magmator.subtitle": "Faça um Magmator",
+  "sb3.powah.magmator.desc": "&bMagmators&r geram FE a partir de Lava.",
+
+  "sb3.powah.reactor.title": "Reatores",
+  "sb3.powah.reactor.subtitle": "Faça um Reator",
+  "sb3.powah.reactor.desc": "&bReatores&r geram FE usando Uraninita. Eles devem ser colocados como um 3x4x3.",
+
+  "sb3.powah.cell.title": "Células de Energia",
+  "sb3.powah.cell.subtitle": "Faça uma Célula de Energia",
+  "sb3.powah.cell.desc": "&bCélulas de Energia&r armazenam FE.",
+
+  "sb3.powah.battery.title": "Baterias",
+  "sb3.powah.battery.subtitle": "Faça uma Bateria",
+  "sb3.powah.battery.desc": "&bBaterias&r armazenam FE e podem carregar itens no seu inventário.",
+
+  "sb3.powah.cable.title": "Cabos de Energia",
+  "sb3.powah.cable.subtitle": "Faça um Cabo de Energia",
+  "sb3.powah.cable.desc": "&bCabos de Energia&r transferem FE.",
+
+  "sb3.powah.ender.title": "Células do Ender",
+  "sb3.powah.ender.subtitle": "Faça uma Célula do Ender",
+  "sb3.powah.ender.desc1": "&bCélulas do Ender&r armazenam FE em uma rede sem fio, compartilhada por qualquer quantidade de Células do Ender.",
+  "sb3.powah.ender.desc2": "A quantidade pode ser aumentada com Células de Energia.",
+
+  "sb3.powah.energizing.task2": "Hastes Energizantes",
+  "sb3.powah.energizing.subtitle": "Faça uma estrutura Energizante",
+  "sb3.powah.energizing.desc": "O &bOrbe Energizante&r recebe energia sem fio de &bHastes Energizantes&r próximas para criar itens.",
+
+  "sb3.powah.player.title": "Transmissores de Jogador",
+  "sb3.powah.player.subtitle": "Faça um Transmissor de Jogador",
+  "sb3.powah.player.desc": "O &bTransmissor de Jogador&r carrega itens sem fio no inventário do jogador.",
+
+  "sb3.powah.gate.title": "Portais do Ender",
+  "sb3.powah.gate.subtitle": "Faça um Portal do Ender",
+  "sb3.powah.gate.desc": "&bPortais do Ender&r fornecem acesso a redes de Células do Ender.",
+
+  "sb3.tech.thermal.title": "Série Thermal",
+
+  "sb3.thermal.mc.subtitle": "Faça um Cadinho de Magma",
+  "sb3.thermal.mc.desc": "O &bCadinho de Magma&r derrete itens em fluidos.",
+
+  "sb3.thermal.bc.subtitle": "Faça um Resfriador de Sopro",
+  "sb3.thermal.bc.desc": "O &bResfriador de Sopro&r converte fluidos em itens.",
+
+  "sb3.thermal.rf.subtitle": "Faça uma Fornalha de Redstone",
+  "sb3.thermal.rf.desc": "A &bFornalha de Redstone&r derrete itens.",
+
+  "sb3.thermal.pulv.subtitle": "Faça um Pulverizador",
+  "sb3.thermal.pulv.desc": "O &bPulverizador&r esmaga itens.",
+
+  "sb3.thermal.aug.title": "Aprimoramentos",
+  "sb3.thermal.aug.subtitle": "Faça qualquer Aprimoramento",
+  "sb3.thermal.aug.desc": "&bAprimoramentos&r são basicamente melhorias que mudam como ferramentas e máquinas funcionam.",
+
+  "sb3.thermal.dynamo.title": "Dínamos",
+  "sb3.thermal.dynamo.subtitle": "Faça qualquer Dínamo",
+  "sb3.thermal.dynamo.desc": "&bDínamos&r geram FE.",
+
+  "sb3.thermal.ic.title": "Componentes Integrais",
+  "sb3.thermal.ic.subtitle": "Faça quaisquer Componentes Integrais",
+  "sb3.thermal.ic.desc": "&bComponentes Integrais&r aumentam o nível da máquina, melhorando os atributos base.",
+
+  "sb3.thermal.msp.subtitle": "Faça uma Prensa Multiservo",
+  "sb3.thermal.msp.desc": "A &bPrensa Multiservo&r cria itens juntando outros.",
+
+  "sb3.thermal.rfc.subtitle": "Faça uma Célula de Fluxo de Redstone",
+  "sb3.thermal.rfc.desc": "&bCélulas de Fluxo de Redstone&r armazenam FE. O armazenamento pode ser melhorado com Aprimoramentos e encantamentos.",
+
+  "sb3.thermal.is.subtitle": "Faça uma Fundição por Indução",
+  "sb3.thermal.is.desc": "A &bFundição por Indução&r combina itens para criar novos.",
+
+  "sb3.thermal.pi.subtitle": "Faça um Insolador Fitogênico",
+  "sb3.thermal.pi.desc": "O &bInsolador Fitogênico&r cultiva plantações, flores e árvores.",
+
+  "sb3.thermal.ie.subtitle": "Faça um Extrusor Ígneo",
+  "sb3.thermal.ie.desc": "O &bExtrusor Ígneo&r pode combinar Água e Lava em vários blocos, como Pedra ou Ardósia Profunda.",
+
+  "sb3.tech.immersive_eng.title": "Immersive Engineering",
+
+  "sb3.ie.eh.subtitle": "Faça o Martelo de Engenheiro",
+  "sb3.ie.eh.desc": "O &bMartelo de Engenheiro&r é necessário para construir os vários multiblocos no mod.",
+
+  "sb3.ie.ak.title": "Fornalha de Liga",
+  "sb3.ie.ak.subtitle": "Faça uma Fornalha de Liga",
+  "sb3.ie.ak.desc": "A &bFornalha de Liga&r combina metais em ligas.",
+
+  "sb3.ie.co.title": "Forno de Coque",
+  "sb3.ie.co.subtitle": "Faça um Forno de Coque",
+  "sb3.ie.co.desc": "O &bForno de Coque&r transforma Carvão em Coque de Carvão e Óleo de Creosoto.",
+
+  "sb3.ie.bo.title": "Alto-Forno Rústico",
+  "sb3.ie.bo.subtitle": "Faça um Alto-Forno Rústico",
+  "sb3.ie.bo.desc": "O &bAlto-Forno Rústico&r faz Aço.",
+
+  "sb3.ie.ibf.title": "Alto-Forno Melhorado",
+  "sb3.ie.ibf.subtitle": "Faça um Alto-Forno Melhorado",
+  "sb3.ie.ibf.desc": "O &bAlto-Forno Melhorado&r pode ser acelerado com &bPré-aquecedores de Alto-Forno&r.",
+
+  "sb3.ie.mp.title": "Prensa de Metal",
+  "sb3.ie.mp.subtitle": "Faça uma Prensa de Metal",
+  "sb3.ie.mp.desc": "A &bPrensa de Metal&r molda metais em vários itens.",
+
+  "sb3.ie.c.title": "Triturador",
+  "sb3.ie.c.subtitle": "Faça um Triturador",
+  "sb3.ie.c.desc": "O &bTriturador&r esmaga itens e mobs que entram pelo topo.",
+
+  "sb3.ie.gc.subtitle": "Faça uma Estufa de Jardim",
+  "sb3.ie.gc.desc": "A &bEstufa de Jardim&r cultiva rapidamente plantações dentro de si.",
+
+  "sb3.tech.mekanism.title": "Mekanism",
+
+  "sb3.mek.heat.title": "Coisa Quente",
+  "sb3.mek.heat.subtitle": "Faça um Aquecedor Resistivo",
+  "sb3.mek.heat.desc1": "&6Calor&r é uma mecânica pouco usada no &eMekanism&r. Algumas máquinas geram calor, que pode ser transferido através de canos &6Condutores Termodinâmicos&r, e então algumas máquinas usam calor para fazer coisas.",
+  "sb3.mek.heat.desc2": "A principal coisa para a qual você precisaria de calor é a &6Planta de Evaporação Térmica&r. Normalmente, você usaria 4 Geradores Solares, mas... isso não é realmente uma opção aqui.",
+  "sb3.mek.heat.desc3": "A PET é alimentada por calor, que é fornecido pelo bioma ou através de &6Válvulas de Evaporação Térmica&r. Um &bAquecedor Resistivo&r pode transformar FE em calor, que pode alimentar a PET a ponto de ela funcionar.",
+
+  "sb3.mek.vapor.title": "Vapor de Água",
+  "sb3.mek.vapor.subtitle": "Faça um Condensador Rotativo",
+  "sb3.mek.vapor.desc1": "&6Polônio&r requer Lixo Nuclear, o que significa que você precisa &6alimentar um Reator de Fissão&r.",
+  "sb3.mek.vapor.desc2": "Reatores de Fissão funcionam com &6Combustível Físsil&r, que tem uma receita longa e complexa.",
+  "sb3.mek.vapor.desc3": "O primeiro passo seria fazer &6Vapor de Água&r no &bCondensador Rotativo&r.",
+
+  "sb3.mek.oxygen.title": "Oxigênio",
+  "sb3.mek.oxygen.subtitle": "Faça um Separador Eletrolítico",
+  "sb3.mek.oxygen.desc1": "O &bSeparador Eletrolítico&r transforma um produto químico em outros dois. Aqui, seria transformar Água em Hidrogênio e &6Oxigênio&r.",
+  "sb3.mek.oxygen.desc2": "O Hidrogênio pode ser descartado, pois não é necessário para o Combustível Físsil.",
+
+  "sb3.mek.sdo.title": "Dióxido de Enxofre",
+  "sb3.mek.sdo.subtitle": "Faça um Oxidante Químico",
+  "sb3.mek.sdo.desc": "O &bOxidante Químico&r transforma sólidos em produtos químicos. Aqui, seria Enxofre em &6Dióxido de Enxofre&r.",
+
+  "sb3.mek.lst.title": "Trióxido de Enxofre",
+  "sb3.mek.lst.subtitle": "Faça um Infusor Químico",
+  "sb3.mek.lst.desc": "O &bInfusor Químico&r combina dois produtos químicos para fazer outro. Aqui, seria Dióxido de Enxofre com Oxigênio para fazer &6Trióxido de Enxofre&r.",
+
+  "sb3.mek.sa.title": "Ácido Sulfúrico",
+  "sb3.mek.sa.subtitle": "Faça Ácido Sulfúrico",
+  "sb3.mek.sa.desc": "&bÁcido Sulfúrico&r pode ser feito combinando Trióxido de Enxofre com Vapor de Água.",
+
+  "sb3.mek.hfa.title": "Ácido Fluorídrico",
+  "sb3.mek.hfa.subtitle": "Faça uma Câmara de Dissolução Química",
+  "sb3.mek.hfa.desc": "A &bCâmara de Dissolução Química&r usa Ácido Sulfúrico para dissolver itens em um novo produto químico. Aqui, seria Fluorita em &6Ácido Fluorídrico&r.",
+
+  "sb3.mek.yc.subtitle": "Obtenha Bolo Amarelo de Urânio",
+  "sb3.mek.yc.desc": "&bBolo Amarelo de Urânio&r é um ingrediente chave no Combustível Físsil.",
+
+  "sb3.mek.uo.title": "Óxido de Urânio",
+  "sb3.mek.uo.subtitle": "Obtenha Óxido de Urânio",
+  "sb3.mek.uo.desc": "&bÓxido de Urânio&r pode ser criado no &6Oxidante Químico&r.",
+
+  "sb3.mek.uhf.title": "Hexafluoreto de Urânio",
+  "sb3.mek.uhf.subtitle": "Obtenha Hexafluoreto de Urânio",
+  "sb3.mek.uhf.desc": "&bHexafluoreto de Urânio&r é o principal ingrediente no Combustível Físsil.",
+
+  "sb3.mek.ff.title": "Combustível Físsil",
+  "sb3.mek.ff.subtitle": "Faça uma Centrífuga Isotópica",
+  "sb3.mek.ff.desc": "A &bCentrífuga Isotópica&r transforma um produto químico em outro. Aqui, seria Hexafluoreto de Urânio em &6Combustível Físsil&r.",
+
+  "sb3.mek.fission.title": "Reator de Fissão",
+  "sb3.mek.fission.subtitle": "Faça um Reator de Fissão",
+  "sb3.mek.fission.desc1": "O &bReator de Fissão&r é uma grande estrutura multiblock que gera uma quantidade massiva de calor, que pode ser usada para fazer uma quantidade extremamente grande de FE.",
+  "sb3.mek.fission.desc2": "Mais importante, no entanto, ele faz &6&oLixo Nuclear&r.",
+  "sb3.mek.fission.desc3": "Francamente, o Reator de Fissão é complexo demais para descrever aqui. Felizmente, há uma página de wiki muito boa aqui: ",
+
+  "sb3.mek.nw.title": "Lixo Nuclear",
+  "sb3.mek.nw.subtitle": "Faça uma Câmara de Reação Pressurizada",
+  "sb3.mek.nw.desc": "A &bCâmara de Reação Pressurizada&r combina um item e um produto químico em outro item e outro produto químico.",
+
+  "sb3.mek.polonium.subtitle": "Obtenha Polônio",
+  "sb3.mek.polonium.desc1": "&bPolônio&r é um material radioativo usado em várias receitas.",
+  "sb3.mek.polonium.desc2": "Nenhuma delas é importante, no entanto. É necessário para a Singularidade, e é isso que realmente importa.",
+
+  "sb3.magic.title": "Magia",
+
+  "sb3.magic.ars_nouveau.title": "Ars Nouveau",
+
+  "sb3.ars.nsb.subtitle": "Faça um Livro de Feitiços de Novato",
+  "sb3.ars.nsb.desc1": "O &bLivro de Feitiços de Novato&r permite que você crie feitiços usando Glifos de Nível 1 que você aprendeu.",
+  "sb3.ars.nsb.desc2": "Crie e aprenda novos Glifos na &6Mesa do Escriba&r.",
+
+  "sb3.ars.st.subtitle": "Faça uma Mesa do Escriba",
+  "sb3.ars.st.desc": "Você pode criar novos &bGlifos&r na &bMesa do Escriba&r usando um Livro de Feitiços nela e, em seguida, jogando os itens solicitados por cima.",
+  "sb3.ars.st.task": "Glifos",
+
+  "sb3.ars.msb.subtitle": "Faça um Livro de Feitiços de Mago",
+  "sb3.ars.msb.desc": "O &bLivro de Feitiços de Mago&r permite que você lance feitiços usando Glifos de Nível 2 que você aprendeu.",
+
+  "sb3.ars.asb.subtitle": "Faça o Livro de Feitiços de Arquimago",
+  "sb3.ars.asb.desc": "O &bLivro de Feitiços de Arquimago&r permite que você lance feitiços usando Glifos de Nível 3 que você aprendeu.",
+
+  "sb3.ars.ic.subtitle": "Faça uma Câmara de Imbuimento",
+  "sb3.ars.ic.desc1": "A &bCâmara de Imbuimento&r usa Fonte (Source) para criar itens.",
+  "sb3.ars.ic.desc2": "Embora funcione mais rápido com Jarros de Fonte por perto, ela &6gera Fonte lentamente&r por conta própria.",
+
+  "sb3.ars.sl.title": "Sourcelinks",
+  "sb3.ars.sl.subtitle": "Faça um Sourcelink",
+  "sb3.ars.sl.desc": "&bSourcelinks&r geram Fonte de várias maneiras, dependendo do Sourcelink. A Fonte é enviada para &bJarros de Fonte&r próximos.",
+
+  "sb3.ars.sr.title": "Relés de Fonte",
+  "sb3.ars.sr.subtitle": "Faça um Relé de Fonte",
+  "sb3.ars.sr.desc": "&bRelés de Fonte&r transferem Fonte entre Jarros de Fonte e outros Relés.",
+
+  "sb3.ars.ea.subtitle": "Faça um Aparato de Encantamento",
+  "sb3.ars.ea.desc": "O &bAparato de Encantamento&r usa Fonte para combinar itens em &bPedestais&r próximos com um item em seu próprio inventário, criando algo novo.",
+
+  "sb3.ars.charms.title": "Amuletos",
+  "sb3.ars.charms.subtitle": "Faça um Amuleto",
+  "sb3.ars.charms.desc": "&bAmuletos&r geram mobs que realizam algum tipo de automação, dependendo do mob.",
+
+  "sb3.ars.rb.subtitle": "Faça um braseiro ritualístico",
+  "sb3.ars.rb.desc": "O &bBraseiro Ritualístico&r usa Fonte para realizar rituais, dependendo do &bTablete&r fornecido.",
+  "sb3.ars.rb.task": "Tabletes Rituais",
+
+  "sb3.ars.fam.title": "Familiares",
+  "sb3.ars.fam.subtitle": "Obtenha um Familiar",
+  "sb3.ars.fam.desc1": "&bFamiliares&r fornecem buffs passivos ou ativos, dependendo do Familiar.",
+  "sb3.ars.fam.desc2": "Obtenha os Manuscritos usando o &bTablete de Vínculo&r perto do mob apropriado.",
+  "sb3.ars.fam.task": "Familiares Vinculados",
+
+  "sb3.ars.robe.title": "Vestes",
+  "sb3.ars.robe.subtitle": "Faça uma armadura mágica",
+  "sb3.ars.robe.desc": "&bVestes&r aumentam sua capacidade de mana, cada nível mais do que o anterior.",
+
+  "sb3.magic.botania.title": "Botania",
+
+  "sb3.botania.ff.subtitle": "Faça Fertilizante Floral",
+  "sb3.botania.ff.desc": "&bFertilizante Floral&r cultiva Flores Místicas quando usado.",
+
+  "sb3.botania.pa.subtitle": "Faça um Apotecário de Pétalas",
+  "sb3.botania.pa.desc": "O &bApotecário de Pétalas&r combina ingredientes com Água para fazer Flores mágicas.",
+
+  "sb3.botania.pd.subtitle": "Faça uma Margarida Pura",
+  "sb3.botania.pd.desc": "A &bMargarida Pura&r converte Pedra e Troncos ao seu redor em Pedra Viva e Madeira Viva.",
+
+  "sb3.botania.mps.subtitle": "Faça uma Piscina de Mana e um Dispersor de Mana",
+  "sb3.botania.mps.desc": "A &bPiscina de Mana&r armazena Mana, e o Dispersor de Mana a move.",
+
+  "sb3.botania.ef.subtitle": "Faça uma Endoflame",
+  "sb3.botania.ef.desc": "A &bEndoflame&r gera Mana a partir de combustíveis de fornalha dropados.",
+
+  "sb3.botania.ra.subtitle": "Faça um Altar Rúnico",
+  "sb3.botania.ra.desc": "O &bAltar Rúnico&r usa Mana para criar itens.",
+
+  "sb3.botania.tap.subtitle": "Faça uma Placa de Aglomeração Terrestre",
+  "sb3.botania.tap.desc": "A &bPlaca de Aglomeração Terrestre&r usa Mana de &bFaíscas&r (conectadas a Piscinas de Mana próximas com Faíscas) para criar Terrasteel.",
+
+  "sb3.botania.egc.subtitle": "Faça um Núcleo do Portal Élfico",
+  "sb3.botania.egc.desc": "O &bNúcleo do Portal Élfico&r é o coração do &6Portal para Alfheim&r. Jogue coisas nele para receber coisas de volta.",
+
+  "sb3.botania.e.subtitle": "Obtenha Elementium",
+  "sb3.botania.e.desc": "&bElementium&r é feito jogando Manasteel através do Portal para Alfheim.",
+
+  "sb3.botania.st.subtitle": "Faça um Ajustador de Faíscas",
+  "sb3.botania.st.desc": "O &bAjustador de Faíscas&r permite que você instale &bAprimoramentos de Faísca&r em Faíscas.",
+  "sb3.botania.st.task": "Aprimoramentos de Faísca",
+
+  "sb3.botania.gp.subtitle": "Faça um Pilar de Gaia",
+  "sb3.botania.gp.desc": "O &bPilar de Gaia&r é necessário para invocar e lutar contra o &6Guardião de Gaia&r.",
+
+  "sb3.botania.gog.subtitle": "Mate o Guardião de Gaia",
+  "sb3.botania.gog.desc": "O &bGuardião de Gaia&r é invocado através do Ritual de Gaia. Matá-lo será difícil, mas seus drops são necessários para a progressão.",
+
+  "sb3.botania.ems.subtitle": "Faça um Dispersor de Mana Élfico",
+  "sb3.botania.ems.desc": "O &bDispersor de Mana Élfico&r é uma versão melhorada do Dispersor de Mana.",
+
+  "sb3.botania.gms.subtitle": "Faça um Dispersor de Mana de Gaia",
+  "sb3.botania.gms.desc": "O &bDispersor de Mana de Gaia&r é uma versão melhorada do Dispersor de Mana Élfico.",
+
+  "sb3.botania.gs.subtitle": "Obtenha um Espírito de Gaia",
+  "sb3.botania.gs.desc": "&bEspíritos de Gaia&r dropam do Guardião de Gaia.",
+
+  "sb3.botania.gsi.subtitle": "Obtenha um Lingote de Espírito de Gaia",
+  "sb3.botania.gsi.desc1": "Um &bLingote de Espírito de Gaia&r é necessário para invocar e lutar contra a segunda versão do Guardião de Gaia.",
+  "sb3.botania.gsi.desc2": "Esta luta é muito mais difícil, mas tem recompensas ainda maiores.",
+
+  "sb3.botania.dof.subtitle": "Obtenha o Dado do Destino",
+  "sb3.botania.dof.desc": "O &bDado do Destino&r (dropado pelo segundo Guardião de Gaia) lhe dará uma Relíquia aleatória, que são itens únicos e poderosos.",
+
+  "sb3.magic.blood_magic.title": "Blood Magic",
+
+  "sb3.bm.ba.subtitle": "Faça um Altar de Sangue",
+  "sb3.bm.ba.desc1": "O &bAltar de Sangue&r armazena LP (sangue, basicamente) e o usa para criar itens.",
+  "sb3.bm.ba.desc2": "Por enquanto, use uma &bFaca de Sacrifício&r para enchê-lo usando sua própria vida.",
+
+  "sb3.bm.wbo.subtitle": "Faça um Orbe de Sangue Fraco",
+  "sb3.bm.wbo.desc1": "&bOrbes de Sangue&r lhe dão uma reserva de LP, chamada &6Rede de Almas&r, que é usada para alimentar Rituais e Sigilos.",
+  "sb3.bm.wbo.desc2": "O &bOrbe de Sangue Fraco&r é o primeiro e menor, contendo &65.000 LP&r. Vincule-o e encha-o clicando com o botão direito. Você também pode enchê-lo no Altar de Sangue.",
+
+  "sb3.bm.abo.subtitle": "Faça um Orbe de Sangue de Aprendiz",
+  "sb3.bm.abo.desc": "O &bOrbe de Sangue de Aprendiz&r contém &625.000 LP&r.",
+
+  "sb3.bm.mbo.subtitle": "Faça um Orbe de Sangue de Mago",
+  "sb3.bm.mbo.desc": "O &bOrbe de Sangue de Mago&r contém &6150.000 LP&r.",
+
+  "sb3.bm.mbo2.subtitle": "Faça um Orbe de Sangue de Mestre",
+  "sb3.bm.mbo2.desc": "O &bOrbe de Sangue de Mestre&r contém &61.000.000 LP&r.",
+
+  "sb3.bm.abo2.subtitle": "Faça um Orbe de Sangue de Arquimago",
+  "sb3.bm.abo2.desc": "O &bOrbe de Sangue de Arquimago&r contém &610.000.000 LP&r.",
+
+  "sb3.bm.aa.subtitle": "Faça Cinzas Arcanas",
+  "sb3.bm.aa.desc": "&bCinzas Arcanas&r são usadas para &6Arranjos Alquímicos&r, que criam itens ou realizam outras funções.",
+
+  "sb3.bm.sl.subtitle": "Faça uma Lousa",
+  "sb3.bm.sl.desc1": "&bLousas em Branco&r são alguns dos ingredientes mais básicos do mod. Basta colocar Pedra em um Altar de Sangue com pelo menos 1.000 LP.",
+  "sb3.bm.sl.desc2": "Se você inserir 2 Pedras, ele tentará criar ambas ao mesmo tempo, custando 2.000 LP. Se você não tiver 2.000 LP, a criação falhará e o LP será desperdiçado.",
+
+  "sb3.bm.ss.subtitle": "Faça uma Armadilha de Almas",
+  "sb3.bm.ss.desc": "Se você jogar &bArmadilhas de Almas&r em mobs, eles têm uma chance de obter partículas brancas. Matá-los dropará &6Vontade Demoníaca&r.",
+
+  "sb3.bm.dw.subtitle": "Obtenha Vontade Demoníaca",
+  "sb3.bm.dw.desc": "&bVontade Demoníaca&r dropa de mobs presos na armadilha. A Qualidade da Vontade é aleatória.",
+
+  "sb3.bm.tg.title": "Gemas Tartáricas",
+  "sb3.bm.tg.subtitle": "Faça uma Gema Tartárica",
+  "sb3.bm.tg.desc": "&bGemas Tartáricas&r absorverão e armazenarão Vontade Demoníaca conforme ela é coletada.",
+
+  "sb3.bm.hf.subtitle": "Faça uma Forja do Fogo Infernal",
+  "sb3.bm.hf.desc": "A &bForja do Fogo Infernal&r usa Vontade (seja do próprio item de Vontade ou de uma Gema Tartárica) para criar itens.",
+
+  "sb3.bm.bat.title": "Níveis do Altar de Sangue",
+  "sb3.bm.bat.subtitle": "Faça um Altar de Sangue Nível 2",
+  "sb3.bm.bat.desc1": "O &6Altar de Sangue&r pode ser aprimorado em 5 níveis, colocando certos blocos ao seu redor.",
+  "sb3.bm.bat.desc2": "O segundo nível requer 8 &bRunas&r colocadas em um círculo ao seu redor, um bloco abaixo. As Runas também funcionam como melhorias do Altar, mudando sua funcionalidade de alguma forma.",
+  "sb3.bm.bat.desc3": "Níveis mais altos são necessários para certas receitas de criação. Veja o &6Sanguine Scientem&r para um guia completo de cada um.",
+  "sb3.bm.bat.task": "8x Runas",
+
+  "sb3.bm.ds.subtitle": "Faça uma Adaga do Sacrifício",
+  "sb3.bm.ds.desc": "A &bAdaga do Sacrifício&r permite que você use a energia vital de um mob em vez da sua para fazer LP.",
+
+  "sb3.bm.at.subtitle": "Faça uma Mesa de Alquimia",
+  "sb3.bm.at.desc": "A &bMesa de Alquimia&r usa LP da sua Rede de Almas para criar itens.",
+
+  "sb3.bm.br.subtitle": "Faça Reagente de Vínculo",
+  "sb3.bm.br.desc": "&bReagente de Vínculo&r é usado para fazer &6Armadura Viva&r, um conjunto de armadura incrivelmente poderoso que &6se aprimora dependendo de como você a usa&r.",
+
+  "sb3.bm.sig.title": "Sigilos",
+  "sb3.bm.sig.subtitle": "Faça qualquer Sigilo",
+  "sb3.bm.sig.desc": "&bSigilos&r usam LP da sua Rede de Almas para realizar uma variedade de funções, como colocar luzes ou cultivar plantações.",
+
+  "sb3.bm.ritual.title": "Rituais",
+  "sb3.bm.ritual.subtitle": "Obtenha os materiais para Rituais",
+  "sb3.bm.ritual.desc1": "&bRituais&r usam LP da sua Rede de Almas para realizar várias tarefas. Eles variam de &6gerar minérios&r, &6cultivar plantações&r e &6danificar mobs por LP&r.",
+  "sb3.bm.ritual.desc2": "Eles são centrados na &bPedra Ritual Mestra&r, e um número de &bPedras Rituais&r são colocadas nas proximidades, coloridas com &bFerramentas de Inscrição&r e finalmente ativadas com um &bCristal de Ativação&r.",
+  "sb3.bm.ritual.desc3": "É altamente sugerido construir o multiblock do ritual com um &6Adivinho Ritual&r.",
+  "sb3.bm.ritual.task": "Ferramentas de Inscrição",
+
+  "sb3.bm.rd.subtitle": "Faça um Adivinho Ritual",
+  "sb3.bm.rd.desc": "Com o &bAdivinho Ritual&r, você pode se esgueirar e clicar com o botão esquerdo ou direito no ar para escolher um Ritual, e então usá-lo na Pedra Ritual Mestra para colocar e colorir as Pedras Rituais para aquele Ritual.",
+
+  "sb3.bm.edge.title": "O Limiar do Reino Oculto",
+  "sb3.bm.edge.subtitle": "Visite uma Dungeon",
+  "sb3.bm.edge.desc1": "O Ritual &bO Limiar do Reino Oculto&r te enviará para uma &6dimensão de dungeon&r feita de 4 salas, desbloqueadas com &6Chaves de Ferro&r.",
+  "sb3.bm.edge.desc2": "Usar o mesmo Pilar de Inversão sempre te enviará para a mesma dungeon. Você precisa refazer o Ritual para criar uma nova.",
+
+  "sb3.storage.title": "Armazenamento",
+
+  "sb3.storage.drawers.title": "Functional Storage",
+  "sb3.storage.drawers.subtitle": "Faça uma Gaveta",
+  "sb3.storage.drawers.desc1": "&eFunctional Storage&r é basicamente um análogo ao &eStorage Drawers&r, com algumas mudanças.",
+  "sb3.storage.drawers.desc2": "O básico permanece o mesmo. &bGavetas&r armazenam uma grande quantidade de um único item. &bGavetas de Compactação&r mostram itens em suas formas de bloco, lingote e pepita.",
+  "sb3.storage.drawers.task1": "Gavetas",
+  "sb3.storage.drawers.task2": "Gavetas de Compactação",
+
+  "sb3.storage.storagecontroller.subtitle": "Faça um Controlador de Armazenamento",
+  "sb3.storage.storagecontroller.desc1": "O &bControlador de Armazenamento&r pode conectar inventários de Gavetas &6sem tocá-los&r.",
+  "sb3.storage.storagecontroller.desc2": "Para conectar o Controlador às Gavetas, use a &bFerramenta de Vinculação&r.",
+
+  "sb3.storage.armory.subtitle": "Faça um Arsenal",
+  "sb3.storage.armory.desc1": "O &bArsenal&r pode armazenar &6até 4096 itens não empilháveis&r, em qualquer combinação.",
+  "sb3.storage.armory.desc2": "Você &cnão pode abri-lo&r, ele não tem GUI. Você só pode inserir e extrair usando automação.",
+
+  "sb3.storage.fcups.title": "Melhorias",
+  "sb3.storage.fcups.subtitle": "Faça qualquer Melhoria de Gaveta",
+  "sb3.storage.fcups.desc1": "&bMelhorias&r aprimoram as Gavetas de alguma forma.",
+  "sb3.storage.fcups.desc2": "Elas vêm em dois tipos e vão em slots diferentes. Melhorias de &6Armazenamento&r aumentam o potencial de armazenamento da Gaveta, e Melhorias de &6Utilidade&r mudam como a Gaveta funciona.",
+  "sb3.storage.fcups.desc3": "Note que se você já está familiarizado com &eStorage Drawers&r, você descobrirá que as Melhorias de Armazenamento em &eFunctional Storage&r se acumulam &6multiplicativamente&r, o que significa que apenas duas melhorias de cobre aumentarão sua capacidade para &664x&r a quantidade base!",
+
+  "sb3.storage.bhu.title": "Unidades de Buraco Negro",
+  "sb3.storage.bhu.subtitle": "Faça uma Unidade de Buraco Negro",
+  "sb3.storage.bhu.desc1": "&bUnidades de Buraco Negro&r armazenam uma quantidade massiva de um único item.",
+  "sb3.storage.bhu.desc2": "Cada nível armazena exponencialmente mais do que o anterior.",
+
+  "sb3.storage.bht.title": "Tanques de Buraco Negro",
+  "sb3.storage.bht.subtitle": "Faça um Tanque de Buraco Negro",
+  "sb3.storage.bht.desc1": "&bTanques de Buraco Negro&r armazenam uma grande quantidade de um fluido.",
+  "sb3.storage.bht.desc2": "Cada nível armazena exponencialmente mais do que o anterior.",
+
+  "sb3.storage.bhc.subtitle": "Faça um Controlador de Buraco Negro",
+  "sb3.storage.bhc.desc1": "O &bControlador de Buraco Negro&r pode armazenar 16 Unidades/Tanques de Buraco Negro e irá &6consolidar seus inventários&r.",
+  "sb3.storage.bhc.desc2": "Ou seja, o Controlador fingirá ser todas as Unidades/Tanques que ele contém combinados em um único inventário.",
+
+  "sb3.rs.c.subtitle": "Faça um Controlador",
+  "sb3.rs.c.desc": "O &bControlador&r é o coração de uma rede &eRefined Storage&r.",
+
+  "sb3.rs.dd.subtitle": "Faça um Drive de Disco",
+  "sb3.rs.dd.desc": "O &bDrive de Disco&r armazena Discos, que por sua vez armazenam itens ou fluidos.",
+
+  "sb3.rs.id.title": "Discos de Item",
+  "sb3.rs.id.subtitle": "Faça um Disco de Item",
+  "sb3.rs.id.desc": "&bDiscos de Item&r armazenam itens. O conteúdo é acessado através de Grids.",
+
+  "sb3.rs.fd.title": "Discos de Fluido",
+  "sb3.rs.fd.subtitle": "Faça um Disco de Fluido",
+  "sb3.rs.fd.desc": "&bDiscos de Fluido&r armazenam fluidos. O conteúdo é acessado através de Grids de Fluido.",
+
+  "sb3.rs.g.subtitle": "Faça um Grid",
+  "sb3.rs.g.desc": "O &bGrid&r permite que você acesse o conteúdo dos Discos na rede.",
+
+  "sb3.rs.cg.subtitle": "Faça um Grid de Criação",
+  "sb3.rs.cg.desc": "O &bGrid de Criação&r tem uma interface de criação 3x3.",
+
+  "sb3.rs.wg.subtitle": "Faça um Grid Sem Fio",
+  "sb3.rs.wg.desc": "O &bGrid Sem Fio&r pode acessar a rede sem fio.",
+
+  "sb3.rs.wcg.subtitle": "Faça um Grid de Criação Sem Fio",
+  "sb3.rs.wcg.desc": "O &bGrid de Criação Sem Fio&r pode acessar a rede sem fio.",
+
+  "sb3.rs.pg.subtitle": "Faça um Grid de Padrões",
+  "sb3.rs.pg.desc": "O &bGrid de Padrões&r pode codificar &6Padrões&r, que são necessários para a autocriação.",
+
+  "sb3.rs.cr.subtitle": "Faça um Criador",
+  "sb3.rs.cr.desc": "&bCriadores&r criam usando Padrões.",
+
+  "sb3.rs.fg.subtitle": "Faça um Grid de Fluido",
+  "sb3.rs.fg.desc": "O &bGrid de Fluido&r fornece acesso ao conteúdo dos Discos de Fluido na rede.",
+
+  "sb3.rs.r.subtitle": "Faça um Solicitador",
+  "sb3.rs.r.desc": "O &bSolicitador&r faz automaticamente solicitações de autocriação quando a rede tem menos que uma certa quantidade de um item especificado.",
+
+  "sb3.ae2.p.title": "Prensas de Inscrição",
+  "sb3.ae2.p.subtitle": "Faça uma Prensa de Inscrição",
+  "sb3.ae2.p.desc": "A &bPrensa de Inscrição&r é usada para fazer vários &6Circuitos&r.",
+
+  "sb3.ae2.c.subtitle": "Faça um Controlador",
+  "sb3.ae2.c.desc": "O &bControlador&r é o coração de uma rede &eAE2&r, fornecendo canais para dispositivos adicionais.",
+
+  "sb3.ae2.d.subtitle": "Faça um Drive ME",
+  "sb3.ae2.d.desc": "O &bDrive ME&r armazena &6Células de Armazenamento&r.",
+
+  "sb3.ae2.ic.title": "Células de Armazenamento de Itens",
+  "sb3.ae2.ic.subtitle": "Faça uma Célula de Armazenamento de Itens",
+  "sb3.ae2.ic.desc1": "&bCélulas de Armazenamento de Itens&r armazenam itens. Níveis mais altos podem conter mais itens no total, mas todos os níveis só podem conter 63 itens únicos.",
+  "sb3.ae2.ic.desc2": "&bDrives de DISCO ME&r (abreviação de &nD&rive de &nI&tem de &nS&torage &nD&eep &nC&ircuit &nO&rganizer) do &eAE2 Things&r não têm limite de itens únicos.",
+
+  "sb3.ae2.fc.title": "Células de Armazenamento de Fluidos",
+  "sb3.ae2.fc.subtitle": "Faça uma Célula de Armazenamento de Fluidos",
+  "sb3.ae2.fc.desc": "&bCélulas de Armazenamento de Fluidos&r armazenam fluidos.",
+
+  "sb3.ae2.t.subtitle": "Faça um Terminal ME",
+  "sb3.ae2.t.desc": "O &bTerminal ME&r permite acesso aos itens e fluidos na rede.",
+
+  "sb3.ae2.st.subtitle": "Faça um Terminal de Segurança ME",
+  "sb3.ae2.st.desc1": "O &bTerminal de Segurança ME&r permite que você escolha como outros jogadores podem interagir com seu sistema ME.",
+  "sb3.ae2.st.desc2": "É também onde &6Terminais Sem Fio&r são vinculados à rede.",
+
+  "sb3.ae2.wt.subtitle": "Faça um Terminal Sem Fio",
+  "sb3.ae2.wt.desc": "O &bTerminal Sem Fio&r permite acesso sem fio à rede.",
+
+  "sb3.ae2.ct.subtitle": "Faça um Terminal de Criação ME",
+  "sb3.ae2.ct.desc": "O &bTerminal de Criação ME&r tem uma interface de criação 3x3.",
+
+  "sb3.ae2.wct.subtitle": "Faça um Terminal de Criação Sem Fio",
+  "sb3.ae2.wct.desc": "O &bTerminal de Criação Sem Fio&r tem uma interface de criação 3x3.",
+
+  "sb3.ae2.pet.subtitle": "Faça um Terminal de Codificação de Padrões ME",
+  "sb3.ae2.pet.desc": "O &bTerminal de Codificação de Padrões ME&r pode codificar &6Padrões&r, que são necessários para a autocriação.",
+
+  "sb3.ae2.pat.subtitle": "Faça um Terminal de Acesso a Padrões ME",
+  "sb3.ae2.pat.desc": "O &bTerminal de Acesso a Padrões ME&r permite que você acesse todos os Provedores de Padrões na rede.",
+
+  "sb3.ae2.pp.subtitle": "Faça um Provedor de Padrões ME",
+  "sb3.ae2.pp.desc": "O &bProvedor de Padrões ME&r é para onde os ingredientes de solicitação de autocriação são enviados.",
+
+  "sb3.ae2.cs.title": "CPU de Criação",
+  "sb3.ae2.cs.task": "Armazenamento de Criação",
+  "sb3.ae2.cs.subtitle": "Faça uma CPU de Criação",
+  "sb3.ae2.cs.desc": "&bArmazenamento de Criação&r e &bCo-Processadores de Criação&r formam uma &bCPU de Criação&r quando colocados adjacentes um ao outro, que são necessários para solicitações de autocriação.",
+
+  "sb3.ae2.ma.subtitle": "Faça um Montador Molecular",
+  "sb3.ae2.ma.desc": "O &bMontador Molecular&r criará automaticamente receitas normais quando conectado a um Provedor de Padrões ME.",
+
+  "sb3.storage.modular.subtitle": "Faça um Armazenamento Modular",
+  "sb3.storage.modular.task": "Módulos de Armazenamento",
+  "sb3.storage.modular.desc1": "O &bArmazenamento Modular&r pode armazenar um único &bMódulo de Armazenamento&r dentro.",
+  "sb3.storage.modular.desc2": "Cada nível superior de Módulo pode armazenar 100 itens adicionais.",
+
+  "sb3.storage.scanner.subtitle": "Faça um Scanner de Armazenamento",
+  "sb3.storage.scanner.desc": "O &bScanner de Armazenamento&r pode acessar o conteúdo de todos os inventários próximos.",
+
+  "sb3.storage.ps.title": "Armazenamento de Bolso",
+  "sb3.storage.ps.subtitle": "Faça um Armazenamento de Bolso",
+  "sb3.storage.ps.desc1": "&bArmazenamentos de Bolso&r podem armazenar apenas uma pequena quantidade de itens únicos, mas podem armazenar uma quantidade massiva de cada um.",
+  "sb3.storage.ps.desc2": "Cada nível armazena mais itens únicos, bem como mais de cada um.",
+
+  "sb3.storage.sb.title": "Simply Backpacks",
+  "sb3.storage.sb.subtitle": "Faça uma Mochila",
+  "sb3.storage.sb.desc": "&bMochilas&r armazenam itens. Cada nível armazena mais. Esgueire-se e clique com o botão direito para editar suas configurações.",
+
+  "sb3.armour.title": "A Armadura Definitiva",
+
+  "sb3.create.title": "Create",
+
+  "sb3.create.ww.subtitle": "Faça uma Roda d'Água",
+  "sb3.create.ww.desc": "&bRoda d'Água&r geram energia rotacional quando giradas por uma corrente de água.",
+
+  "sb3.create.mp.subtitle": "Faça uma Prensa Mecânica",
+  "sb3.create.mp.desc": "A &bPrensa Mecânica&r processa itens embaixo dela que estão em Depósitos ou Esteiras.",
+
+  "sb3.create.mix.subtitle": "Faça um Misturador",
+  "sb3.create.mix.desc": "O &bMisturador&r processa itens que estão em uma Bacia abaixo.",
+
+  "sb3.create.wrench.subtitle": "Faça uma Chave Inglesa",
+  "sb3.create.wrench.desc": "A &bChave Inglesa&r pode configurar máquinas.",
+
+  "sb3.create.bb.subtitle": "Faça um Queimador de Blaze",
+  "sb3.create.bb.desc": "O &bQueimador de Blaze&r é necessário para algumas receitas do &6Misturador&r. Embora possa usar qualquer combustível de fornalha, o &bBolo de Blaze&r é o mais poderoso.",
+
+  "sb3.create.ma.subtitle": "Faça um Braço Mecânico",
+  "sb3.create.ma.desc": "&bBraços Mecânicos&r podem mover itens com muito mais precisão do que Esteiras Mecânicas.",
+
+  "sb3.create.mc.subtitle": "Faça Criadores Mecânicos",
+  "sb3.create.mc.desc": "&bCriadores Mecânicos&r podem criar receitas automaticamente, incluindo algumas que são maiores que 3x3.",
+
+  "sb3.create.mb.subtitle": "Faça Esteiras Mecânicas",
+  "sb3.create.mb.desc": "&bEsteiras Mecânicas&r movem itens e entidades ao longo delas.",
+
+  "sb3.create.rl.subtitle": "Faça Links de Redstone",
+  "sb3.create.rl.desc": "&bLinks de Redstone&r podem transmitir sinais de redstone sem fio entre si.",
+
+  "sb3.create.se.subtitle": "Faça um Motor a Vapor",
+  "sb3.create.se.desc": "O &bMotor a Vapor&r, quando colocado em um Tanque cheio de água com calor abaixo, gera energia rotacional.",
+
+  "sb3.create.ts.subtitle": "Faça uma Estação de Trem",
+  "sb3.create.ts.desc1": "&eCreate&r tem um sistema expansivo de &bTrens&r.",
+  "sb3.create.ts.desc2": "Francamente, é complexo demais para descrever aqui. Use o sistema &6Ponder&r do mod em vez disso.",
+
+  "sb3.create.em.subtitle": "Faça um Motor Elétrico",
+  "sb3.create.em.desc": "O &bMotor Elétrico&r converte FE em energia rotacional.",
+
+  "sb3.create.alt.subtitle": "Faça um Alternador",
+  "sb3.create.alt.desc": "O &bAlternador&r converte energia rotacional em FE.",
+
+  "sb3.create.eg.subtitle": "Faça uns Óculos de Engenheiro",
+  "sb3.create.eg.desc": "Enquanto usados, os &bÓculos de Engenheiro&r mostrarão detalhes sobre várias máquinas.",
+
+  "sb3.create.mh.subtitle": "Faça uma Colheitadeira Mecânica",
+  "sb3.create.mh.desc": "Enquanto parte de uma engenhoca em movimento, a &bColheitadeira Mecânica&r colherá e replantará plantações.",
+
+  "sb3.misc.title": "Diversos",
+
+  "sb3.misc.torch.subtitle": "Faça uma Mega Tocha",
+  "sb3.misc.torch.desc": "A &bMega Tocha&r bloqueia o spawn de monstros em uma área.",
+
+  "sb3.misc.dread.subtitle": "Faça uma Lâmpada do Pavor",
+  "sb3.misc.dread.desc": "A &bLâmpada do Pavor&r bloqueia o spawn de passivos em uma área.",
+
+  "sb3.misc.feral.subtitle": "Faça uma Lanterna de Chama Feral",
+  "sb3.misc.feral.desc": "A &bLanterna de Chama Feral&r coloca luzes invisíveis por perto&r.",
+
+  "sb3.misc.bg.title": "Building Gadgets",
+  "sb3.misc.bg.subtitle": "Faça algo do Building Gadgets",
+  "sb3.misc.bg.desc": "&eBuilding Gadgets&r tem vários &bAparelhos&r que tornam a construção de uma base muito mais fácil.",
+
+  "sb3.misc.cs.subtitle": "Faça uma Estação de Carregamento",
+  "sb3.misc.cs.desc": "Você pode carregar itens com FE na &bEstação de Carregamento&r.",
+
+  "sb3.misc.mg.title": "Mining Gadgets",
+  "sb3.misc.mg.subtitle": "Faça um Aparelho de Mineração",
+  "sb3.misc.mg.desc1": "&bAparelhos de Mineração&r disparam lasers que mineram blocos, com um custo de FE.",
+  "sb3.misc.mg.desc2": "Todos os três tipos funcionam da mesma forma, a diferença é apenas visual.",
+
+  "sb3.misc.mgu.title": "Melhorias de Aparelho de Mineração",
+  "sb3.misc.mgu.subtitle": "Faça uma Melhoria",
+  "sb3.misc.mgu.desc": "&bMelhorias&r podem ser instaladas no seu Aparelho de Mineração na &bMesa de Modificação&r.",
+  "sb3.misc.mgu.task": "Melhorias",
+
+  "sb3.misc.if.title": "Iron Furnaces",
+  "sb3.misc.if.subtitle": "Faça uma Fornalha aprimorada",
+  "sb3.misc.if.desc": "O mod &eIron Furnaces&r adiciona vários níveis de &bFornalha&r que derretem mais rápido.",
+
+  "sb3.misc.temp.subtitle": "Faça um Tempad",
+  "sb3.misc.temp.desc1": "&bTempads&r são usados para &6teleportar de um lugar para outro&r.",
+  "sb3.misc.temp.desc2": "Abra a GUI e escolha \"EXECUTAR PROGRAMA\". Adicione um local e você poderá se teleportar para ele de qualquer lugar.",
+  "sb3.misc.temp.desc3": "O teletransporte é gratuito, mas tem um tempo de recarga de 3 minutos.",
+
+  "sb3.misc.pouch.title": "Tempo em uma Bolsa",
+  "sb3.misc.pouch.subtitle": "Faça uma Bolsa Temporal",
+  "sb3.misc.pouch.desc": "A &bBolsa Temporal&r coleta tempo lentamente enquanto está no seu inventário. Você pode usá-la em máquinas para acelerá-las, usando o tempo armazenado.",
+
+  "sb3.misc.hearthstone.title": "/home, só que balanceado™",
+  "sb3.misc.hearthstone.subtitle": "Faça uma Hearthstone",
+  "sb3.misc.hearthstone.desc1": "A &bHearthstone &rpermite que você se teletransporte rapidamente para sua cama pessoal ou âncora de renascimento (ou para o ponto [0, 0] da sua dimensão se você não tiver nenhum dos dois).",
+  "sb3.misc.hearthstone.desc2": "...claro, você &opoderia&r simplesmente usar &6/ftbstoneblock home&r para fazer a mesma coisa, mas onde está a graça nisso?",
+
+  "sb3.misc.obelisk.title": "Alguém falou em EnderIO?",
+  "sb3.misc.obelisk.subtitle": "Faça um Obelisco de Experiência",
+  "sb3.misc.obelisk.desc1": "O &bObelisco de Experiência &ré um &atanque de XP&r onde você pode rapidamente armazenar ou recuperar exatamente a quantidade de níveis de XP que precisa no momento.",
+  "sb3.misc.obelisk.desc2": "Ele também pode ser configurado para absorver automaticamente orbes de XP próximos e pode ser configurado para funcionar apenas com um sinal de redstone!",
+
+  "sb3.misc.trash.title": "Lixeiras",
+  "sb3.misc.trash.subtitle": "Faça uma Lixeira",
+  "sb3.misc.trash.desc": "&bLixeiras&r destroem o que é inserido nelas.",
+
+  "sb3.misc.cw.title": "Varinhas de Construção",
+  "sb3.misc.cw.subtitle": "Faça uma Varinha de Construção",
+  "sb3.misc.cw.desc": "&bVarinhas de Construção&r permitem que você coloque um grande número de blocos rapidamente.",
+
+  "sb3.misc.cw.toggle": "Alterne entre os Núcleos clicando com o botão esquerdo no ar enquanto se esgueira e segura a Varinha.",
+
+  "sb3.misc.ac.subtitle": "Faça um Núcleo de Anjo",
+  "sb3.misc.ac.desc": "O &bNúcleo de Anjo&r pode ser instalado na Varinha para permitir que você coloque blocos no lado oposto ao que você clica.",
+
+  "sb3.misc.dc.subtitle": "Faça um Núcleo de Destruição",
+  "sb3.misc.dc.desc": "O &bNúcleo de Destruição&r pode ser instalado na Varinha para permitir que você &cdestrua permanentemente blocos em uma área&r. Eles não droparão nada.",
+
+  "sb3.misc.ent.subtitle": "Faça um Bloco Entrelaçado",
+  "sb3.misc.ent.desc1": "Quando você vincula um &bBloco Entrelaçado&r a outro bloco com o &bVinculador Entrelaçado&r, o Bloco Entrelaçado finge que é aquele bloco.",
+  "sb3.misc.ent.desc2": "Isso significa que você pode colocar e tirar coisas do Bloco Entrelaçado, e elas entrarão e sairão do bloco vinculado, mesmo à distância.",
+
+  "sb3.misc.tess.subtitle": "Faça um Tesseract",
+  "sb3.misc.tess.desc": "&bTesseracts&r permitem que você teletransporte itens, fluidos e energia.",
+
+  "sb3.misc.compact.subtitle": "Faça uma Máquina Compacta",
+  "sb3.misc.compact.desc1": "&bMáquinas Compactas&r contêm uma pequena área interna, que você pode acessar com um &bDispositivo de Encolhimento Pessoal&r.",
+  "sb3.misc.compact.desc2": "Cada nível tem mais espaço que o anterior. Você pode usar &6Túneis&r para trazer itens, fluidos e energia para dentro e para fora.",
+  "sb3.misc.compact.task": "Máquinas Compactas",
+
+  "sb3.misc.automation_station.title": "Estação de Automação",
+  "sb3.misc.automation_station.subtitle": "Faça um Auto-Martelo e uma Mesa de Ferraria Automática",
+  "sb3.misc.automation_station.desc1": "&bAuto-Martelos&r irão &6Martelar itens inseridos de forma gratuita e automática&r.",
+  "sb3.misc.automation_station.desc2": "Os itens devem ser inseridos no lado azul, e a saída é automaticamente expelida pelo lado vermelho.",
+  "sb3.misc.automation_station.desc3": "A &bMesa de Ferraria (Automática)&r usa FE para automatizar as receitas da Mesa de Ferraria. Esgueire-se e clique com o botão direito nos lados do bloco para configurar onde estão as entradas e saídas.",
+  "sb3.misc.automation_station.task": "Auto-Martelos",
+
+  "sb3.misc.pp.title": "Pretty Pipes",
+  "sb3.misc.pp.subtitle": "Faça um Cano",
+  "sb3.misc.pp.desc": "&bCanos&r movem itens. Eles precisam de &6Módulos&r para realmente funcionar.",
+
+  "sb3.misc.ppm.title": "Módulos",
+  "sb3.misc.ppm.subtitle": "Faça um Módulo de Cano",
+  "sb3.misc.ppm.desc": "&bMódulos&r podem ser aplicados a Canos para ditar como eles funcionam.",
+
+  "sb3.misc.ppt.title": "Terminais",
+  "sb3.misc.ppt.subtitle": "Faça um Terminal",
+  "sb3.misc.ppt.desc": "O &bTerminal de Itens&r mostra o conteúdo de todos os Canos e permite que você solicite os itens.",
+
+  "sb3.misc.fp.subtitle": "Faça um Cano de Fluido",
+  "sb3.misc.fp.desc": "&bCanos de Fluido&r movem fluidos.",
+
+  "sb3.misc.pz.title": "Pipez",
+  "sb3.misc.pz.subtitle": "Faça um Cano",
+  "sb3.misc.pz.desc": "&bCanos&r movem coisas, dependendo do tipo de Cano. Você precisa usar um &bConfigurador&r no Cano conectado à fonte.",
+
+  "sb3.misc.pzu.title": "Melhorias de Cano",
+  "sb3.misc.pzu.subtitle": "Faça uma Melhoria de Cano",
+  "sb3.misc.pzu.desc": "&bMelhorias de Cano&r fazem os Canos funcionarem mais rápido.",
+
+  "sb3.endgame.title": "Fim de Jogo",
+
+  "sb3.endgame.pe": "ProjectE",
+
+  "sb3.pe.ec.subtitle": "Faça um Condensador de Energia",
+  "sb3.pe.ec.desc1": "O &bCondensador de Energia&r converte itens em EMC e, em seguida, EMC em outro item.",
+  "sb3.pe.ec.desc2": "Coloque o item que você quer no slot superior esquerdo e coloque os itens a serem destruídos no inventário.",
+
+  "sb3.pe.ec2.subtitle": "Faça um Condensador de Energia MK2",
+  "sb3.pe.ec2.desc": "O &bCondensador de Energia MK2&r tem inventários separados para entrada e saída.",
+
+  "sb3.pe.tt.subtitle": "Faça uma Mesa de Transmutação",
+  "sb3.pe.tt.desc1": "A &bMesa de Transmutação&r pode desconstruir itens, aprendendo-os e transformando-os em EMC (armazenado no jogador).",
+  "sb3.pe.tt.desc2": "Itens aprendidos podem ser criados à direita, consumindo EMC.",
+  "sb3.pe.tt.desc3": "Itens que usam EMC podem ser carregados nos slots à esquerda.",
+
+  "sb3.pe.tt2.subtitle": "Faça um Tablet de Transmutação",
+  "sb3.pe.tt2.desc": "O &bTablet de Transmutação&r é uma Mesa de Transmutação portátil.",
+
+  "sb3.pe.att.subtitle": "Faça um Tablet de Transmutação Arcano",
+  "sb3.pe.att.desc": "O &bTablet de Transmutação Arcano&r é um Tablet de Transmutação aprimorado, com uma GUI melhor e alguns recursos mais agradáveis.",
+
+  "sb3.pe.at.subtitle": "Faça uma Mesa de Alquimia",
+  "sb3.pe.at.desc": "A &bMesa de Alquimia&r pode converter itens em outros itens usando EMC, fornecido por Coletores de Energia.",
+
+  "sb3.pe.col.title": "Coletores de Energia",
+  "sb3.pe.col.subtitle": "Faça um Coletor de Energia",
+  "sb3.pe.col.desc": "&bColetores de Energia&r &6geram EMC passivamente&r, enviando-o para blocos adjacentes como o Condensador de Energia.",
+
+  "sb3.pe.col2.title": "Coletores de Energia+",
+  "sb3.pe.col2.subtitle": "Faça Coletores de Energia de nível superior",
+  "sb3.pe.col2.desc": "&bColetores de Energia&r do addon &eExtendedeXchange&r alcançam níveis muito mais altos, produzindo exponencialmente mais EMC por segundo.",
+
+  "sb3.pe.amr.title": "Relés de Antimatéria",
+  "sb3.pe.amr.subtitle": "Faça um Relé de Antimatéria",
+  "sb3.pe.amr.desc1": "&bRelés de Antimatéria&r transferem EMC de Coletores de Energia adjacentes para Condensadores de Energia adjacentes. Dessa forma, você pode usar 18 Coletores em vez de 6.",
+  "sb3.pe.amr.desc2": "Você também pode carregar itens que contêm EMC aqui.",
+
+  "sb3.pe.amr2.title": "Relés de Antimatéria+",
+  "sb3.pe.amr2.subtitle": "Faça um Relé de Antimatéria de nível superior",
+  "sb3.pe.amr2.desc": "&bRelés de Antimatéria&r do addon &eExtendedeXchange&r alcançam níveis muito mais altos, movendo exponencialmente mais EMC por segundo. No entanto, eles &cnão podem carregar itens&r.",
+
+  "sb3.pe.tok.subtitle": "Faça um Tomo do Conhecimento",
+  "sb3.pe.tok.desc": "O &bTomo do Conhecimento&r irá &6ensinar todos os itens&r quando colocado na Mesa de Transmutação.",
+
+  "sb3.pe.eml.subtitle": "Faça o Link de Energia EMC",
+  "sb3.pe.eml.desc": "O &bLink de Energia EMC&r pegará EMC (de Coletores e Relés, etc.) e o inserirá no EMC pessoal do jogador.",
+
+  "sb3.pe.ps.subtitle": "Faça uma Pedra Filosofal",
+  "sb3.pe.ps.desc": "A &bPedra Filosofal&r permite que você converta entre itens e blocos equivalentes, seja por criação ou clicando com o botão direito.",
+
+  "sb3.pe.woft.subtitle": "Faça um Relógio do Tempo Flutuante",
+  "sb3.pe.woft.desc1": "O &bRelógio do Tempo Flutuante&r acelerará as máquinas perto de você, ao custo de EMC.",
+  "sb3.pe.woft.desc2": "Ative com a tecla \"Mudar Modo\", que não vem configurada por padrão.",
+
+  "sb3.pe.fuel.title": "Combustível de Morbius",
+  "sb3.pe.fuel.subtitle": "Faça um Combustível alquímico",
+  "sb3.pe.fuel.desc": "&bCombustíveis Alquímicos&r derretem mais itens que o Carvão normal e são usados em certas receitas.",
+
+  "sb3.pe.klein.title": "Estrelas de Klein",
+  "sb3.pe.klein.subtitle": "Faça uma Estrela de Klein",
+  "sb3.pe.klein.desc": "&bEstrelas de Klein&r (assim como &bEstrelas Magnum&r) armazenam EMC em seu inventário.",
+
+  "sb3.pe.dm.subtitle": "Faça Matéria Escura",
+  "sb3.pe.dm.desc": "&bMatéria Escura&r é usada em várias receitas de criação.",
+
+  "sb3.pe.rm.subtitle": "Faça Matéria Vermelha",
+  "sb3.pe.rm.desc": "&bMatéria Vermelha&r é usada em várias receitas de criação.",
+
+  "sb3.pe.dmt.title": "Ferramentas de Matéria Escura",
+  "sb3.pe.dmt.subtitle": "Faça uma ferramenta de Matéria Escura",
+  "sb3.pe.dmt.desc1": "As ferramentas de &bMatéria Escura&r são inquebráveis e têm habilidades especiais.",
+  "sb3.pe.dmt.desc2": "Seu poder pode ser aumentado usando a tecla &6\"Carregar\"&r, e os modos podem ser alterados com a tecla &6\"Mudar Modo\"&r.",
+
+  "sb3.pe.rings.title": "Anéis de Poder",
+  "sb3.pe.rings.subtitle": "Faça um anel alquímico",
+  "sb3.pe.rings.desc": "Estes &banéis alquímicos&r realizam uma variedade de funções quando usados ou clicados com o botão direito.",
+  "sb3.pe.rings.task": "Anéis alquímicos",
+
+  "sb3.pe.dma.title": "Armadura de Matéria Escura",
+  "sb3.pe.dma.subtitle": "Faça uma armadura de Matéria Escura",
+  "sb3.pe.dma.desc": "A armadura de &bMatéria Escura&r é inquebrável e MUITO resistente a danos.",
+
+  "sb3.pe.rma.title": "Armadura de Matéria Vermelha",
+  "sb3.pe.rma.subtitle": "Faça uma armadura de Matéria Vermelha",
+  "sb3.pe.rma.desc": "A armadura de &bMatéria Vermelha&r é inquebrável e AINDA MAIS resistente a danos.",
+
+  "sb3.pe.gma.title": "Armadura de Gema",
+  "sb3.pe.gma.subtitle": "Faça uma armadura de Gema",
+  "sb3.pe.gma.desc": "A armadura de &bGema&r é inquebrável, concede a habilidade de voar e é MUITO, MUITO resistente a danos.",
+
+  "sb3.pe.rmt.title": "Ferramentas de Matéria Vermelha",
+  "sb3.pe.rmt.subtitle": "Faça uma ferramenta de Matéria Vermelha",
+  "sb3.pe.rmt.desc": "As ferramentas de &bMatéria Vermelha&r são aprimoramentos diretos de suas versões de Matéria Escura.",
+
+  "sb3.pe.rmt2.title": "Ferramentas de Matéria Vermelha Aprimoradas",
+  "sb3.pe.rmt2.subtitle": "Faça uma ferramenta de Matéria Vermelha aprimorada",
+  "sb3.pe.rmt2.desc": "A &bEstrela da Manhã Vermelha&r é uma combinação das ferramentas de Matéria Vermelha, e o &bKatar Vermelho&r é uma combinação das armas.",
+
+  "sb3.pe.flower.title": "Poder da Flor",
+  "sb3.pe.flower.subtitle": "Faça uma flor de poder de qualquer nível",
+  "sb3.pe.flower.desc": "A flor de poder pode gerar EMC automaticamente sem qualquer requisito de entrada. Com 16 níveis disponíveis, suas necessidades de EMC devem ser facilmente satisfeitas.",
+  "sb3.pe.flower.desc2": "Tente dizer poder da flor, flor do poder 10 vezes rápido!",
+
+  "sb3.pe.elink.subtitle": "Faça um Link Pessoal de EMC",
+  "sb3.pe.elink.desc1": "O &bLink Pessoal de EMC&r funciona como um Condensador de Energia, mas usa seu EMC pessoal.",
+  "sb3.pe.elink.desc2": "Itens podem ser inseridos e extraídos por canos.",
+
+  "sb3.pe.elink2.subtitle": "Faça um Link Refinado de EMC",
+  "sb3.pe.elink2.desc1": "O &bLink Refinado de EMC&r mantém constantemente 9 itens em estoque, usando seu EMC pessoal.",
+  "sb3.pe.elink2.desc2": "Ensine-lhe um item inserindo-o, e ele manterá o item em estoque.",
+
+  "sb3.pe.elink3.subtitle": "Faça um Link Refinado de EMC Comprimido",
+  "sb3.pe.elink3.desc": "Assim como o Link Refinado de EMC, no entanto, com &6546r slots de saída.",
+
+  "sb3.endgame.avaritia_armor.title": "A Armadura Definitiva",
+
+  "sb3.endgame.avaritia_armor.boots.title": "Sempre na moda",
+  "sb3.endgame.avaritia_armor.boots.subtitle": "Faça as Botas do Infinito",
+
+  "sb3.endgame.avaritia_armor.leggings.title": "Minha bunda parece grande nisto?",
+  "sb3.endgame.avaritia_armor.leggings.subtitle": "Faça as Perneiras do Infinito",
+
+  "sb3.endgame.avaritia_armor.chestplate.title": "O Peitoral da Armadura Definitiva",
+  "sb3.endgame.avaritia_armor.chestplate.subtitle": "Faça um Peitoral do Infinito",
+
+  "sb3.endgame.avaritia_armor.helm.title": "Eu vejo além desta realidade agora",
+  "sb3.endgame.avaritia_armor.helm.subtitle": "Faça um Elmo do Infinito",
+
+  "sb3.endgame.avaritia_armor.sword.title": "A Espada da Armadura Definitiva",
+  "sb3.endgame.avaritia_armor.sword.subtitle": "Dói mais do que um dedão do pé batido",
+  "sb3.endgame.avaritia_armor.sword.description": "",
+
+  "sb3.endgame.avaritia_armor.pickaxe.title": "A Picareta da Armadura Definitiva",
+  "sb3.endgame.avaritia_armor.pickaxe.subtitle": "Paredes se desfazem como vidro temperado",
+  "sb3.endgame.avaritia_armor.pickaxe.description": "",
+
+  "sb3.endgame.avaritia_armor.axe.title": "O Machado da Armadura Definitiva",
+  "sb3.endgame.avaritia_armor.axe.subtitle": "Desmatador de nações",
+  "sb3.endgame.avaritia_armor.axe.description": "",
+
+  "sb3.endgame.avaritia_armor.shovel.title": "A Pá da Armadura Definitiva",
+  "sb3.endgame.avaritia_armor.shovel.subtitle": "Escavadora de continentes",
+  "sb3.endgame.avaritia_armor.shovel.description": "",
+
+  "sb3.endgame.avaritia_armor.bow.title": "O Arco da Armadura Definitiva",
+  "sb3.endgame.avaritia_armor.bow.subtitle": "Mira inabalável",
+  "sb3.endgame.avaritia_armor.bow.description": "",
+
+  "sb3.endgame.singularities.title": "Densitas Infinita",
+
+  "sb3.endgame.singularities.sing_pig_iron.title": "Singularidade de Ferro-Gusa",
+  "sb3.endgame.singularities.sing_pig_iron.description": "",
+
+  "sb3.endgame.singularities.sing_source_gem.title": "Singularidade de Gema de Fonte",
+  "sb3.endgame.singularities.sing_source_gem.description": "",
+
+  "sb3.endgame.singularities.sing_train_track.title": "Singularidade de Trilho de Trem",
+  "sb3.endgame.singularities.sing_train_track.description": "",
+
+  "sb3.endgame.singularities.sing_palette.title": "Singularidade de Paleta e Pincel",
+  "sb3.endgame.singularities.sing_palette.description": "",
+
+  "sb3.endgame.singularities.sing_balloon.title": "Singularidade de Balão",
+  "sb3.endgame.singularities.sing_balloon.description": "",
+
+  "sb3.endgame.singularities.sing_infused_enderpearl.title": "Singularidade de Pérola do End Infundida",
+  "sb3.endgame.singularities.sing_infused_enderpearl.description": "",
+
+  "sb3.endgame.singularities.sing_node_overclocker.title": "Singularidade de Overclocker de Nó",
+  "sb3.endgame.singularities.sing_node_overclocker.description": "",
+
+  "sb3.endgame.singularities.sing_etherealslate.title": "Singularidade de Lousa Etérea",
+  "sb3.endgame.singularities.sing_etherealslate.description": "",
+
+  "sb3.endgame.singularities.sing_mana_steel.title": "Singularidade de Aço de Mana",
+  "sb3.endgame.singularities.sing_mana_steel.description": "",
+
+  "sb3.endgame.singularities.sing_flux_block.title": "Singularidade de Bloco de Fluxo",
+  "sb3.endgame.singularities.sing_flux_block.description": "",
+
+  "sb3.endgame.singularities.sing_corrupted.title": "Singularidade de Lingote Corrompido",
+  "sb3.endgame.singularities.sing_corrupted.description": "",
+
+  "sb3.endgame.singularities.sing_uraninite.title": "Singularidade de Uraninita",
+  "sb3.endgame.singularities.sing_uraninite.description": "",
+
+  "sb3.endgame.singularities.sing_enderium_block.title": "Singularidade de Bloco de Enderium",
+  "sb3.endgame.singularities.sing_enderium_block.description": "",
+
+  "sb3.endgame.singularities.sing_pet_filter.title": "Singularidade de Filtro de Estimação",
+  "sb3.endgame.singularities.sing_pet_filter.description": "",
+
+  "sb3.endgame.singularities.sing_mob_soul.title": "Singularidade de Alma de Mob",
+  "sb3.endgame.singularities.sing_mob_soul.description": "",
+
+  "sb3.endgame.singularities.sing_addon_processing_t2.title": "Singularidade de Adicional: Processamento Nível 2",
+  "sb3.endgame.singularities.sing_addon_processing_t2.description": "",
+
+  "sb3.endgame.singularities.sing_polonium_pelle.titlet": "Singularidade de Pelota de Polônio",
+  "sb3.endgame.singularities.sing_polonium_pelle.description": "",
+
+  "sb3.endgame.singularities.sing_nether_star.title": "Singularidade de Estrela do Nether",
+  "sb3.endgame.singularities.sing_nether_star.description": "",
+
+  "sb3.endgame.singularities.sing_nitro_crystal.title": "Singularidade de Cristal de Nitro",
+  "sb3.endgame.singularities.sing_nitro_crystal.description": "",
+
+  "sb3.endgame.singularities.sing_magenta_matter.title": "Singularidade de Matéria Magenta",
+  "sb3.endgame.singularities.sing_magenta_matter.description": "",
+
+  "sb3.endgame.singularities.sing_emerald_cluster.title": "Singularidade de Aglomerado de Esmeralda",
+  "sb3.endgame.singularities.sing_emerald_cluster.description": "",
+
+  "sb3.endgame.singularities.sing_jelly.title": "Singularidade de Bebê de Gelatina de XP",
+  "sb3.endgame.singularities.sing_jelly.description": "",
+
+  "sb3.endgame.singularities.meatballs.title": "Almôndegas Cósmicas",
+  "sb3.endgame.singularities.meatballs.subtitle": "Mmmm almôndegas emissoras de nêutrons",
+  "sb3.endgame.singularities.meatballs.description": "Mmmm almôndegas emissoras de nêutrons",
+
+  "sb3.endgame.singularities.stew.title": "Ensopado Supremo",
+  "sb3.endgame.singularities.stew.subtitle": "Faça o Ensopado Supremo",
+  "sb3.endgame.singularities.stew.description": "Apenas um deus poderia comer tanto",
+
+  "sb3.endgame.singularities.infinity.title": "Catalisador do Infinito",
+  "sb3.endgame.singularities.infinity.subtitle": "Faça um Catalisador do Infinito",
+  "sb3.endgame.singularities.infinity.description": "Você está quase lá.",
+
+  "sb3.endgame.singularities.neutronium_ingot.title": "Lingote de Neutrônio",
+  "sb3.endgame.singularities.neutronium_ingot.subtitle": "Faça um Lingote de Neutrônio",
+
+  "sb3.endgame.singularities.neutronium_pile.title": "Sua Mãe Pesa Mais!",
+  "sb3.endgame.singularities.neutronium_pile.subtitle": "Faça uma Pilha de Neutrônio",
+
+  "sb3.endgame.singularities.record_fragment.title": "Fragmento de Disco",
+  "sb3.endgame.singularities.record_fragment.subtitle": "Faça um Fragmento de Disco",
+  "sb3.endgame.singularities.record_fragment.description": "Obtenha alguns fragmentos de disco, eles são usados para criar o catalisador do infinito.",
+
+  "sb3.endgame.singularities.endest_pearl.title": "Não Jogue Dentro de Casa!",
+  "sb3.endgame.singularities.endest_pearl.subtitle": "Faça uma Pérola Finalíssima",
+
+  "sb3.endgame.singularities.crystal_matrix.title": "Matriz de Cristal",
+  "sb3.endgame.singularities.crystal_matrix.subtitle": "Faça um Lingote de Matriz de Cristal",
+  "sb3.endgame.singularities.crystal_matrix.description": "Gaste todos os seus diamantes criando estes",
+
+  "sb3.endgame.singularities.infinity_ingot.title": "Lingote do Infinito",
+  "sb3.endgame.singularities.infinity_ingot.subtitle": "Como isso ainda não quebrou a realidade?!",
+  "sb3.endgame.singularities.infinity_ingot.description": "Agora mais 136!",
+
+  "sb3.endgame.singularities.crafting.title": "A Bancada de Trabalho Definitiva",
+  "sb3.endgame.singularities.crafting.subtitle": "Requer 384 diamantes!",
+  "sb3.endgame.singularities.crafting.description": "Se você está prestes a fazer isso, é melhor estar preparado para o que está por vir...",
+
+  "sb3.endgame.singularities.collect.subtitle": "Faça um Coletor de Nêutrons",
+  "sb3.endgame.singularities.collect.desc": "Gera uma única Pilha Minúscula de Nêutrons a cada 6 minutos ou mais.",
+
+  "sb3.endgame.singularities.nug.subtitle": "Faça uma Pepita de Neutrônio",
+  "sb3.endgame.singularities.ball.subtitle": "Faça Almôndegas Cósmicas"
+}

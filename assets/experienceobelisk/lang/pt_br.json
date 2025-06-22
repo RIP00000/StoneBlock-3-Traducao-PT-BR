@@ -1,0 +1,39 @@
+
+{
+  "item.experienceobelisk.raw_experience_bucket": "Balde de Experiência Bruta",
+  "item.experienceobelisk.cognitium_bucket": "Balde de Cognitium",
+
+  "block.experienceobelisk.experience_obelisk": "Obelisco de Experiência",
+  "block.experienceobelisk.cognitium": "Cognitium",
+
+  "fluid.experienceobelisk.raw_experience": "Experiência Bruta",
+  "fluid.experienceobelisk.cognitium": "Cognitium",
+
+  "itemGroup.experience_obelisk": "Experience Obelisk",
+
+  "title.experienceobelisk.experience_obelisk": "Obelisco de Experiência",
+  "title.experienceobelisk.experience_obelisk.store": "Armazenar",
+  "title.experienceobelisk.experience_obelisk.retrieve": "Recuperar",
+  "title.experienceobelisk.experience_obelisk.settings": "Configurações",
+  "title.experienceobelisk.experience_obelisk.radius": "Raio",
+  "title.experienceobelisk.experience_obelisk.redstone": "Redstone",
+
+  "tooltip.experienceobelisk.experience_obelisk.add1": "Armazenar §a1§f nível de XP",
+  "tooltip.experienceobelisk.experience_obelisk.add10": "Armazenar §a10§f níveis de XP",
+  "tooltip.experienceobelisk.experience_obelisk.addAll": "Armazenar §atodos§f os níveis de XP",
+  "tooltip.experienceobelisk.experience_obelisk.drain1": "Recuperar §c1§f nível de XP",
+  "tooltip.experienceobelisk.experience_obelisk.drain10": "Recuperar §c10§f níveis de XP",
+  "tooltip.experienceobelisk.experience_obelisk.drainAll": "Recuperar §ctodos§f os níveis de XP",
+
+  "tooltip.experienceobelisk.experience_obelisk.item_fluid_amount": "§7Quantidade de Fluido:§r %s",
+  "tooltip.experienceobelisk.experience_obelisk.item_levels": "%s §7Níveis§r",
+
+  "tooltip.experienceobelisk.experience_obelisk.radius": "§6Resetar§f raio para o padrão",
+  "tooltip.experienceobelisk.experience_obelisk.settings": "Configurações...",
+  "tooltip.experienceobelisk.experience_obelisk.back": "Voltar...",
+
+  "button.experienceobelisk.experience_obelisk.settings": "§l▶§r",
+  "button.experienceobelisk.experience_obelisk.back": "§l◀§r",
+  "button.experienceobelisk.experience_obelisk.ignored": "§cIgnorado§r",
+  "button.experienceobelisk.experience_obelisk.enabled": "§aAtivado§r"
+}

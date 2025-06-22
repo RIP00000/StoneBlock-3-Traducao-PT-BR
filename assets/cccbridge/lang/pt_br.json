@@ -1,0 +1,17 @@
+
+{
+  "block.cccbridge.source_block": "Bloco de Origem",
+  "block.cccbridge.target_block": "Bloco de Destino",
+  "block.cccbridge.redrouter_block": "Bloco RedRouter",
+  "block.cccbridge.scroller_block": "Painel de Rolagem",
+  "block.cccbridge.animatronic_block": "Animatrônico",
+
+  "cccbridge.display_source.source_block_display_source": "Dados recebidos do computador",
+
+  "cccbridge.general.unit.scroller": "Número Lua",
+  "cccbridge.general.unit.scroller.positive": "Num. Lua +",
+  "cccbridge.general.unit.scroller.negative": "Num. Lua -",
+
+  "subtitles.cccbridge.cage_lock": "Seletor travado",
+  "subtitles.cccbridge.cage_unlock": "Seletor destravado"
+}

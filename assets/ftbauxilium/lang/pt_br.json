@@ -1,0 +1,16 @@
+
+{
+  "ftbauxilium.what-is": "O FTB Auxilium é um mod leve que envia uma pequena quantidade de informações estatísticas para o servidor de estatísticas da FTB. Usamos essas informações para ajudar a direcionar o desenvolvimento dos nossos pacotes de mods na direção que melhor se adapta aos nossos jogadores.",
+  "ftbauxilium.what-info": "O Auxilium reporta apenas dados básicos e completamente anônimos. Atualmente, ele reporta sobre: tempos de carregamento, o pacote de mods que você está jogando, relatórios de erro (crashlogs), tempo de jogo e qual launcher você usou para iniciar o pacote.",
+  "ftbauxilium.opt-out": "Se você prefere não enviar essas informações anônimas para a FTB, pode cancelar sua participação usando o botão abaixo. Isso cancelará sua participação em todos os pacotes da FTB que usam o Auxilium.",
+  "ftbauxilium.heading-what-is": "O que é o FTB Auxilium?",
+  "ftbauxilium.heading-what-info": "O que ele está enviando?",
+  "ftbauxilium.heading-opt-out": "Cancelar participação?",
+  "ftbauxilium.heading-opt-in": "Parece que você já cancelou sua participação",
+  "ftbauxilium.opt-in": "Se você gostaria de voltar a participar do sistema de estatísticas do Auxilium, por favor, pressione o botão abaixo.",
+  "ftbauxilium.btn.opt-out": "Cancelar Participação",
+  "ftbauxilium.btn-opt-in": "Voltar a Participar",
+  "ftbauxilium.btn-cancel": "Cancelar",
+  "ftbauxilium.msg.opted-out": "Sua participação foi cancelada.",
+  "ftbauxilium.msg.opted-in": "Sua participação foi reativada."
+}
