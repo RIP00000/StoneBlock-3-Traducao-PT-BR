@@ -34,3 +34,5 @@ Observação: A tradução não está 100% completa.
 Caso queira me ajudar, adicione-me no Discord: antonylucas
 
 Obrigado pela atenção!
+
+CREDITOS: RIP
