@@ -1,5 +1,4 @@
 # Stoneblock3-Traducao-PTBR
-Tradução para o modpack Stoneblock 3 para Português (Brasil).
 ⛏️ Tradução PT-BR para Stoneblock 3 🇧🇷
 Bem-vindos à sua experiência de Stoneblock 3 totalmente em Português do Brasil! Este pacote de recursos dedica-se a traduzir e aprimorar a imersão de jogadores de língua portuguesa neste incrível modpack.
 
