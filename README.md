@@ -20,7 +20,7 @@ Okay! Aqui está um tutorial simples e direto de como aplicar a sua tradução n
 Siga estes passos para ter o seu Stoneblock 3 traduzido para Português do Brasil:
 
 Passo 1: Baixar a Tradução
-Baixe a versão mais recente da tradução neste link: https://github.com/RIP00000/StoneBlock-3-Tradu-o-PT-BR/releases/tag/v0.1
+Baixe a versão mais recente da tradução neste link: https://github.com/RIP00000/StoneBlock-3-Traducao-PT-BR/releases/tag/v0.1
 
 Passo 2: Instalação do Arquivo
 Pegue o arquivo Stoneblock3-Traducao-PTBR.BETA.zip e coloque-o na pasta ftb stoneblock 3\resourcepacks.
