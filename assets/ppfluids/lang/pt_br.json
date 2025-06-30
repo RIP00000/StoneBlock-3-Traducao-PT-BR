@@ -1,0 +1,21 @@
+
+{
+  "block.ppfluids.fluid_pipe": "Tubo de Fluido",
+  "item.ppfluids.fluid_item": "Recipiente de Fluido",
+
+  "item.ppfluids.low_fluid_extraction_module": "Módulo de Extração de Fluido Baixa",
+  "item.ppfluids.medium_fluid_extraction_module": "Módulo de Extração de Fluido Média",
+  "item.ppfluids.high_fluid_extraction_module": "Módulo de Extração de Fluido Alta",
+  "item.ppfluids.low_fluid_filter_module": "Módulo de Filtro de Fluido Baixo",
+  "item.ppfluids.medium_fluid_filter_module": "Módulo de Filtro de Fluido Médio",
+  "item.ppfluids.high_fluid_filter_module": "Módulo de Filtro de Fluido Alto",
+  "item.ppfluids.low_fluid_retrieval_module": "Módulo de Recuperação de Fluido Baixo",
+  "item.ppfluids.medium_fluid_retrieval_module": "Módulo de Recuperação de Fluido Médio",
+  "item.ppfluids.high_fluid_retrieval_module": "Módulo de Recuperação de Fluido Alto",
+  "info.prettypipes.fluid_extraction_module": "Extrai fluido de inventários adjacentes.\nFiltros e taxas de extração variam por nível.\nNíveis altos evitam o excesso de envio.",
+  "info.prettypipes.fluid_filter_module": "Restringe o fluxo de tubos para tanques adjacentes.\nA quantidade de filtro varia por nível.",
+  "info.prettypipes.fluid_retrieval_module": "Extrai fluido de outros tanques na rede.\nFiltros e taxas de extração variam por nível.\nNíveis altos evitam o excesso de envio.",
+  "info.ppfluids.fluid_item.usage": "Use-me em um tanque de fluido para inserir meu conteúdo nele!",
+  "info.ppfluids.whitelist.description": "Fluidos nos slots de filtro são permitidos",
+  "info.ppfluids.blacklist.description": "Fluidos nos slots de filtro são proibidos"
+}

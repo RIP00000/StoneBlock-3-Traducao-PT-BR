@@ -1,0 +1,21 @@
+
+{
+  "tooltip.tklib.color.white": "Branco",
+  "tooltip.tklib.color.orange": "Laranja",
+  "tooltip.tklib.color.magenta": "Magenta",
+  "tooltip.tklib.color.light_blue": "Azul Claro",
+  "tooltip.tklib.color.yellow": "Amarelo",
+  "tooltip.tklib.color.lime": "Verde-Limão",
+  "tooltip.tklib.color.pink": "Rosa",
+  "tooltip.tklib.color.gray": "Cinza",
+  "tooltip.tklib.color.light_gray": "Cinza Claro",
+  "tooltip.tklib.color.cyan": "Ciano",
+  "tooltip.tklib.color.purple": "Roxo",
+  "tooltip.tklib.color.blue": "Azul",
+  "tooltip.tklib.color.brown": "Marrom",
+  "tooltip.tklib.color.green": "Verde",
+  "tooltip.tklib.color.red": "Vermelho",
+  "tooltip.tklib.color.black": "Preto",
+
+  "subtitles.tklib.wrench": "Som de chave de boca"
+}

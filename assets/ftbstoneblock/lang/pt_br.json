@@ -21,6 +21,42 @@
   "sb3.tips.10": "Usar um Gancho em qualquer tipo de terra, areia e folhas lhe dará itens.",
   "sb3.tips.11": "Use Farinha de Osso em blocos de grama e quebre a grama para obter sementes de cânhamo.",
 
+  "item.ftbstoneblock.warm_silverfish_shard": "Fragmento Quente de Silverfish",
+  "item.ftbstoneblock.cold_silverfish_shard": "Fragmento Frio de Silverfish",
+  "item.ftbstoneblock.ritual_starter": "Ativador de Ritual",
+  "item.ftbstoneblock.silverfish_heart": "Coração do Silverfish",
+  "item.ftbstoneblock.press_rod_die": "Matriz de Haste para Prensa",
+  "item.ftbstoneblock.mob_soul": "Alma de Mob",
+  "item.ftbstoneblock.stonepebble": "Pedra Pequena",
+  "block.ftbstoneblock.dust": " Pó",
+  "block.ftbstoneblock.crushed_netherrack": "Netherrack Triturada",
+  "block.ftbstoneblock.crushed_endstone": "Pedra do End Triturada",
+  "block.ftbstoneblock.crushed_deepslate": "Ardósia Triturada",
+  "block.ftbstoneblock.1x_compressed_stone": "Pedra Comprimida 1x",
+  "block.ftbstoneblock.2x_compressed_stone": "Pedra Comprimida 2x",
+  "block.ftbstoneblock.3x_compressed_stone": "Pedra Comprimida 3x",
+  "block.ftbstoneblock.1x_compressed_cobblestone": "Pedregulho Comprimido 1x",
+  "block.ftbstoneblock.2x_compressed_cobblestone": "Pedregulho Comprimido 2x",
+  "block.ftbstoneblock.3x_compressed_cobblestone": "Pedregulho Comprimido 3x",
+  "block.ftbstoneblock.1x_compressed_gravel": "Cascalho Comprimido 1x",
+  "block.ftbstoneblock.2x_compressed_gravel": "Cascalho Comprimido 2x",
+  "block.ftbstoneblock.3x_compressed_gravel": "Cascalho Comprimido 3x",
+  "block.ftbstoneblock.1x_compressed_dirt": "Terra Comprimida 1x",
+  "block.ftbstoneblock.2x_compressed_dirt": "Terra Comprimida 2x",
+  "block.ftbstoneblock.3x_compressed_dirt": "Terra Comprimida 3x",
+  "block.ftbstoneblock.1x_compressed_sand": "Areia Comprimida 1x",
+  "block.ftbstoneblock.2x_compressed_sand": "Areia Comprimida 2x",
+  "block.ftbstoneblock.3x_compressed_sand": "Areia Comprimida 3x",
+  "block.ftbstoneblock.1x_compressed_deepslate": "Ardósia Comprimida 1x",
+  "block.ftbstoneblock.2x_compressed_deepslate": "Ardósia Comprimida 2x",
+  "block.ftbstoneblock.3x_compressed_deepslate": "Ardósia Comprimida 3x",
+  "block.ftbstoneblock.1x_compressed_netherrack": "Netherrack Comprimida 1x",
+  "block.ftbstoneblock.2x_compressed_netherrack": "Netherrack Comprimida 2x",
+  "block.ftbstoneblock.3x_compressed_netherrack": "Netherrack Comprimida 3x",
+  "block.ftbstoneblock.1x_compressed_endstone": "Pedra do End Comprimida 1x",
+  "block.ftbstoneblock.2x_compressed_endstone": "Pedra do End Comprimida 2x",
+  "block.ftbstoneblock.3x_compressed_endstone": "Pedra do End Comprimida 3x",
+
   "entity.chickens.bronze_chicken": "Galinha de Bronze",
   "entity.chickens.lead_chicken": "Galinha de Chumbo",
   "entity.chickens.lumium_chicken": "Galinha de Lumium",
@@ -204,7 +240,7 @@
   "sb3.getting_started.cobble_gen5.desc": "O &bGerador de Pedregulho Nv5&r faz 1 Pedregulho a cada 0.05 segundos.",
 
   "sb3.getting_started.soulsand.subtitle": "Obtenha Areia das Almas",
-  "sb3.getting_started.soulsand.desc1": "Você pode obter &bAreia das Almas&r combinando Areia, uma Alma de Mob e um pouco de Água em um &6Misturador&r.",
+  "sb3.getting_started.soulsand.desc1": "Você pode obter &bAreia das Almas&r combinando Areia, uma Alma de Mob e um pouco de Água em um &6Batedeira Mecânica&r.",
   "sb3.getting_started.soulsand.decs2": "Depois da primeira, você pode fazer mais usando &6Assombração em Massa&r com um Ventilador.",
 
   "sb3.getting_started.mobsoul.subtitle": "Obtenha uma Alma de Mob",
@@ -1391,4 +1427,5 @@
 
   "sb3.endgame.singularities.nug.subtitle": "Faça uma Pepita de Neutrônio",
   "sb3.endgame.singularities.ball.subtitle": "Faça Almôndegas Cósmicas"
+  
 }

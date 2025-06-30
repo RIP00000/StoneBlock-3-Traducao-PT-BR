@@ -1,0 +1,35 @@
+
+{
+  "itemGroup.summoningrituals": "Rituais de Invocação",
+
+  "block.summoningrituals.altar": "Altar de Invocação",
+  "block.summoningrituals.indestructible_altar": "Altar de Invocação Indestrutível",
+
+  "message.summoningrituals.progress": "O ritual de invocação já está em andamento.",
+  "message.summoningrituals.day": "Precisa ser dia para iniciar o ritual.",
+  "message.summoningrituals.night": "Precisa ser noite para iniciar o ritual.",
+  "message.summoningrituals.clear": "O clima precisa estar limpo para iniciar o ritual.",
+  "message.summoningrituals.rain": "Precisa estar chovendo para iniciar o ritual.",
+  "message.summoningrituals.thunder": "Precisa estar trovejando para iniciar o ritual.",
+  "message.summoningrituals.block_below": "O Altar não possui o bloco correto abaixo dele.",
+  "message.summoningrituals.sacrifices": "Não há sacrifícios suficientes ao redor do Altar.",
+  "message.summoningrituals.invalid": "O Altar não continha todos os reagentes necessários.",
+
+  "label.summoningrituals.region": "Região",
+  "label.summoningrituals.outputs": "Saídas",
+
+  "tooltip.summoningrituals.catalyst": "Catalisador",
+  "tooltip.summoningrituals.catalyst_desc": "Insira por último para iniciar o ritual.",
+  "tooltip.summoningrituals.block_below": "Bloco abaixo",
+  "tooltip.summoningrituals.properties": "Propriedades relevantes",
+  "tooltip.summoningrituals.region": "A região ao redor do altar onde os mobs são considerados para sacrifício.",
+  "tooltip.summoningrituals.day_time": "Horário necessário",
+  "tooltip.summoningrituals.weather": "Clima necessário",
+
+  "day_time.summoningrituals.day": "Dia",
+  "day_time.summoningrituals.night": "Noite",
+
+  "weather.summoningrituals.clear": "Limpo",
+  "weather.summoningrituals.rain": "Chuva",
+  "weather.summoningrituals.thunder": "Trovão"
+}
